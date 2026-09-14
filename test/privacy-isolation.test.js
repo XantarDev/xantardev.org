@@ -27,6 +27,7 @@ test('ignore rules isolate controlled migration inputs', () => {
     '/ltxantardevgt.WordPress.2026-09-14.xml',
     '/*.WordPress.*.xml',
     '*.wxr',
+    'node_modules/',
     '/migration/private/',
     '/migration/fingerprints/',
     '/migration/audit/',

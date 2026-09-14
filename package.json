@@ -3,12 +3,17 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "test": "node --test",
-    "migration:inventory": "node scripts/migration/not-ready.js inventory",
+    "migration:inventory": "node scripts/migration/inventory.js",
     "migration:import": "node scripts/migration/not-ready.js import",
     "migration:assets": "node scripts/migration/not-ready.js assets",
     "verify": "node scripts/verify/privacy-isolation.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
   }
 }
