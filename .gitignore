@@ -16,3 +16,17 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# Controlled migration inputs: never commit or expose them in public source/output.
+/ltxantardevgt.WordPress.2026-09-14.xml
+/*.WordPress.*.xml
+*.wxr
+/migration/private/
+/migration/fingerprints/
+/migration/audit/
+/migration/staging/
+/migration/cache/
+/migration/logs/
+
+# Local Pi runtime state
+.atl/
