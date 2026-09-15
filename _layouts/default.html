@@ -5,14 +5,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% include head.html %}
   <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <script>
+    (function () {
+      var savedTheme = localStorage.getItem('xantardev-theme');
+      var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.setAttribute('data-theme', savedTheme || (systemDark ? 'dark' : 'light'));
+    }());
+  </script>
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
     <div class="inner-wrap">
-      <div class="site-branding">
-        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></h1>
-        <p class="site-description">{{ site.description | escape }}</p>
+      <div class="header-left">
+        <div class="site-branding">
+          <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></h1>
+          <p class="site-description">{{ site.description | escape }}</p>
+        </div>
+        <div class="theme-switcher" aria-label="Selector de tema">
+          <button class="theme-button" type="button" data-theme-option="light" aria-pressed="true">☼</button>
+          <button class="theme-button" type="button" data-theme-option="dark" aria-pressed="false">☾</button>
+        </div>
       </div>
       <nav class="main-navigation" aria-label="Principal">
         <a href="{{ '/xd/' | relative_url }}">¿Qué es XantarDev?</a>
@@ -42,5 +55,30 @@
   <footer class="site-footer"><div class="inner-wrap">{{ site.title | escape }}
     <br/> <small>haciendo comunidad 🌐 desde 2016</small>
   </div></footer>
+  <script>
+    (function () {
+      var storageKey = 'xantardev-theme';
+      var buttons = document.querySelectorAll('[data-theme-option]');
+      var savedTheme = localStorage.getItem(storageKey);
+      var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var currentTheme = savedTheme || (systemDark ? 'dark' : 'light');
+
+      function applyTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        buttons.forEach(function (button) {
+          button.setAttribute('aria-pressed', String(button.dataset.themeOption === theme));
+        });
+      }
+
+      applyTheme(currentTheme);
+      buttons.forEach(function (button) {
+        button.addEventListener('click', function () {
+          var theme = button.dataset.themeOption;
+          localStorage.setItem(storageKey, theme);
+          applyTheme(theme);
+        });
+      });
+    }());
+  </script>
 </body>
 </html>
