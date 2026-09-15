@@ -10,17 +10,28 @@ permalink: "/:title/"
 paginate: 5
 paginate_path: "/page:num/"
 
-sponsors:
-  - name: "Tokiota"
-    logo: "/wp-content/uploads/2026/05/tokiota_big-1400x239-1-1024x175.jpg"
-  - name: "Balidea"
-    logo: "/wp-content/uploads/2022/05/logo-BALIDEA_20YEARS_RGB-03.png"
-  - name: "Plain Concepts"
-    logo: "/wp-content/uploads/2022/04/plain-concepts-01-main-logo-RGB_s.png"
-  - name: "dinahosting"
-    logo: "/wp-content/uploads/2018/05/dinahostingLogo.png"
-  - name: "Teimas"
-    logo: "/wp-content/uploads/2018/05/logo_teimas.jpg"
+sponsor_sections:
+  - title: "Alojamiento"
+    sponsors:
+      - name: "dinahosting"
+        url: "https://dinahosting.com"
+        logo: "/wp-content/uploads/2018/05/dinahostingLogo.png"
+  - title: "Patrocinio 2025"
+    sponsors:
+      - name: "Mews"
+        url: "https://www.mews.com/"
+        logo: "/wp-content/uploads/2025/09/image-1-1024x322.png"
+  - title: "Patrocinio 2022/2023"
+    sponsors:
+      - name: "Plain Concepts"
+        url: "https://www.plainconcepts.com/"
+        logo: "/wp-content/uploads/2022/04/plain-concepts-01-main-logo-RGB_s.png"
+        alt: "Patrocinador Diamante del Aniversario IV+II"
+  - title: "Colaboramos con"
+    sponsors:
+      - name: "commit"
+        url: "https://commit-conf.com"
+        logo: "/wp-content/uploads/2018/06/commit.png"
 
 exclude:
   - Dockerfile

@@ -23,15 +23,19 @@
   <main class="inner-wrap content" id="main">
     <div class="content-layout">
       <div class="primary-content">{{ content }}</div>
-      <aside class="site-sidebar" aria-labelledby="sponsors-title">
-        <h2 id="sponsors-title">Patrocinadores</h2>
-        <div class="sponsor-list">
-          {% for sponsor in site.sponsors %}
-            <div class="sponsor-logo">
-              <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}">
+      <aside class="site-sidebar" aria-label="Patrocinadores y colaboradores">
+        {% for section in site.sponsor_sections %}
+          <section class="sponsor-section">
+            <h2 class="widget-title">{{ section.title | escape }}</h2>
+            <div class="sponsor-list">
+              {% for sponsor in section.sponsors %}
+                <a class="sponsor-logo" href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+                  <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.alt | default: sponsor.name | escape }}">
+                </a>
+              {% endfor %}
             </div>
-          {% endfor %}
-        </div>
+          </section>
+        {% endfor %}
       </aside>
     </div>
   </main>
