@@ -32,4 +32,5 @@ Gemfile.lock
 /migration/logs/
 
 # Local Pi runtime state
+.pi/
 .atl/

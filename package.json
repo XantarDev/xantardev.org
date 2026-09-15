@@ -14,6 +14,7 @@
     "verify": "node scripts/verify/privacy-isolation.js"
   },
   "dependencies": {
-    "fast-xml-parser": "^5.2.5"
+    "fast-xml-parser": "^5.2.5",
+    "parse5": "^7.2.1"
   }
 }
