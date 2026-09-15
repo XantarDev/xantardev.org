@@ -1,0 +1,20 @@
+title: "<XantarDev />"
+description: "Comunidad Técnica"
+url: "https://xantardev.org"
+baseurl: ""
+lang: "gl-ES"
+timezone: "Europe/Madrid"
+permalink: "/:title/"
+
+exclude:
+  - node_modules/
+  - scripts/
+  - test/
+  - docs/
+  - migration/
+  - openspec/
+  - package.json
+  - package-lock.json
+  - ltxantardevgt.WordPress.2026-09-14.xml
+  - "*.WordPress.*.xml"
+  - "*.wxr"

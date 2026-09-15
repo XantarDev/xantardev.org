@@ -1,0 +1,15 @@
+---
+layout: default
+title: "<XantarDev />"
+---
+<section class="post-list">
+  {% assign posts = site.posts | sort: 'date' | reverse %}
+  {% for post in posts %}
+    <article class="post-card">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p class="entry-meta">{{ post.date | date: '%d/%m/%Y' }} · {{ post.author }}</p>
+      {% if post.excerpt %}<div class="entry-summary">{{ post.excerpt | strip_html | truncate: 260 }}</div>{% endif %}
+      <p><a class="read-more" href="{{ post.url | relative_url }}">Read more</a></p>
+    </article>
+  {% endfor %}
+</section>

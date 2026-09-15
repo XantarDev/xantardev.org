@@ -9,8 +9,8 @@
   "scripts": {
     "test": "node --test",
     "migration:inventory": "node scripts/migration/inventory.js",
-    "migration:import": "node scripts/migration/not-ready.js import",
-    "migration:assets": "node scripts/migration/not-ready.js assets",
+    "migration:import": "node scripts/migration/import-content.js",
+    "migration:assets": "node scripts/migration/fetch-assets.js",
     "verify": "node scripts/verify/privacy-isolation.js"
   },
   "dependencies": {
