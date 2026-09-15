@@ -21,14 +21,9 @@ sponsors:
     logo: "/wp-content/uploads/2018/05/logo_teimas.jpg"
 
 exclude:
-  - node_modules/
-  - scripts/
-  - test/
-  - docs/
-  - migration/
-  - openspec/
-  - package.json
-  - package-lock.json
-  - ltxantardevgt.WordPress.2026-09-14.xml
-  - "*.WordPress.*.xml"
-  - "*.wxr"
+  - Dockerfile
+  - docker-compose.yml
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

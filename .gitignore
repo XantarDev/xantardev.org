@@ -1,36 +1,26 @@
-# This .gitignore is appropriate for repositories deployed to GitHub Pages and using
-# a Gemfile as specified at https://github.com/github/pages-gem#conventional
-
-# Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
+# Jekyll build output and caches
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
-# Additional Ruby/bundler ignore for when you run: bundle install
+# Bundler local install output
 /vendor
-
-# Node dependency install output
-node_modules/
-
-# Specific ignore for GitHub Pages
-# GitHub Pages will always use its own deployed version of pages-gem 
-# This means GitHub Pages will NOT use your Gemfile.lock and therefore it is
-# counterproductive to check this file into the repository.
-# Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
 
-# Controlled migration inputs: never commit or expose them in public source/output.
+# Local/runtime-only files
+node_modules/
+.pi/
+.atl/
+
+# Retired migration/private inputs; never commit them if recreated locally
 /ltxantardevgt.WordPress.2026-09-14.xml
 /*.WordPress.*.xml
 *.wxr
-/migration/private/
-/migration/fingerprints/
-/migration/audit/
-/migration/staging/
-/migration/cache/
-/migration/logs/
-
-# Local Pi runtime state
-.pi/
-.atl/
+/migration/
+/openspec/
+/docs/migration.md
+/scripts/
+/test/
+package.json
+package-lock.json
