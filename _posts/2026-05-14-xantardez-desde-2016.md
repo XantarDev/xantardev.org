@@ -7,7 +7,7 @@ source_id: "756"
 author: "xantardev"
 categories: ["eventos"]
 tags: []
-excerpt: "Tokiota"
+excerpt: ""
 ---
 
 <figure class="wp-block-image aligncenter size-large is-style-default"><a href="{{ '/wp-content/uploads/2026/05/xantardez_Gemini_Generated_Image_v4.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2026/05/xantardez_Gemini_Generated_Image_v4-1024x559.png' | relative_url }}" alt="" class="wp-image-757" style="object-fit:cover"></a></figure>
