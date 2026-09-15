@@ -9,7 +9,7 @@ categories: ["eventos"]
 tags: []
 excerpt: ""
 ---
-<img class="aligncenter size-full wp-image-62" src="/wp-content/uploads/2019/04/xantardev_aniversario3_promo_1200x603.jpg" alt="" width="1001" height="500">
+<img class="aligncenter size-full wp-image-62" src="{{ '/wp-content/uploads/2019/04/xantardev_aniversario3_promo_1200x603.jpg' | relative_url }}" alt="" width="1001" height="500">
 
 <strong>¡El sábado 8 de junio cumplimos tres años!</strong> Estamos preparando un meetup a la altura de las circunstancias. El evento tendrá lugar en el <strong>Centro Sociocultural de O Castiñeiriño</strong>. El formato será de <strong>seis charlas</strong>, divididas en cuatro por la mañana y dos por la tarde.
 
@@ -59,14 +59,14 @@ Dirección: Rúa da Virxe de Fátima, 2, 15702 Santiago de Compostela, A Coruña
 
 Os dejamos un mapa detallando las zonas de aparcamiento y paradas de autobús.
 
-<a href="/wp-content/uploads/2018/03/MapaZona_e.png"><img class="size-medium wp-image-55" src="/wp-content/uploads/2018/03/MapaZona_e-300x258.png" alt="Mapa Centro Socio Cultural O Castiñeiriño" width="300" height="258"></a>
+<a href="{{ '/wp-content/uploads/2018/03/MapaZona_e.png' | relative_url }}"><img class="size-medium wp-image-55" src="{{ '/wp-content/uploads/2018/03/MapaZona_e-300x258.png' | relative_url }}" alt="Mapa Centro Socio Cultural O Castiñeiriño" width="300" height="258"></a>
 <h3 style="padding-top: 15px;">Patrocinadores</h3>
 <h4><img style="vertical-align: text-top;" src="https://img.icons8.com/plasticine/28/000000/diamond.png"> Diamante</h4>
-<a title="Tokiota" href="http://www.tokiota.com/" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2018/04/logo-tokiota.png" alt="Tokiota patrocinador diamante"></a>
+<a title="Tokiota" href="http://www.tokiota.com/" target="_blank" rel="noopener noreferrer"><img src="{{ '/wp-content/uploads/2018/04/logo-tokiota.png' | relative_url }}" alt="Tokiota patrocinador diamante"></a>
 <h4><img style="vertical-align: text-top;" src="https://img.icons8.com/color/28/000000/gold-bars.png"> Oro</h4>
-<a title="Plexus" href="https://www.tecnologiasplexus.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/2019/04/logoPlexus_300x100.jpg" alt="Plexus patrocinador oro" width="300" height="95"></a>
+<a title="Plexus" href="https://www.tecnologiasplexus.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="{{ '/wp-content/uploads/2019/04/logoPlexus_300x100.jpg' | relative_url }}" alt="Plexus patrocinador oro" width="300" height="95"></a>
 
-<a title="Kabel" href="https://www.linkedin.com/company/kabel/" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/wp-content/uploads/2019/05/Logo-Kabel-300x100.png" alt="Kabel patrocinador oro"></a>
+<a title="Kabel" href="https://www.linkedin.com/company/kabel/" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="{{ '/wp-content/uploads/2019/05/Logo-Kabel-300x100.png' | relative_url }}" alt="Kabel patrocinador oro"></a>
 
 Si quieres apoyar a la comunidad y patrocinar este evento, no dudes en contactar con nosotros en <a href="mailto:xantardev@outlook.com">xantardev@outlook.com</a>. Cualquier colaboración es bien recibida. Puedes consultar el documento de patrocinio <a href="https://drive.google.com/open?id=1A0D25X9hHdz59Pp67sC4yKypow1V_QN8">aquí.</a>
 <h3 style="padding-top: 15px;">Ofertas de empleo</h3>
@@ -83,9 +83,9 @@ Si quieres apoyar a la comunidad y patrocinar este evento, no dudes en contactar
 <a href="https://www.infojobs.net/a-coruna/consultor-infraestructuras-azure/of-i8e9f158c2d4dc999105c6f9286dbc8" target="_blank" rel="noopener noreferrer">Consultor Infraestructuras Azure (A Coruña)</a>
 <a href="https://www.infojobs.net/madrid/desarrollador-.net-azure/of-i3898b8185b4628a84245a41b8d666d" target="_blank" rel="noopener noreferrer">Desarrollador .NET y Azure (Madrid)</a>
 <h3 style="padding-top: 15px;">Colaboradores</h3>
-<a href="http://santiagodecompostela.gal" target="_blank" rel="noopener noreferrer"><img style="max-height: 100px;" src="/wp-content/uploads/2018/04/ayuntamiento_scq_back_white.jpeg"></a>
+<a href="http://santiagodecompostela.gal" target="_blank" rel="noopener noreferrer"><img style="max-height: 100px;" src="{{ '/wp-content/uploads/2018/04/ayuntamiento_scq_back_white.jpeg' | relative_url }}"></a>
 <h3 style="padding-top: 15px;">Código de conducta</h3>
-Tenemos publicado en <a title="Código de conducta" href="/codigo-de-conducta/" target="_blank" rel="noopener noreferrer">este enlace</a> nuestro código de conducta aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.
+Tenemos publicado en <a title="Código de conducta" href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank" rel="noopener noreferrer">este enlace</a> nuestro código de conducta aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.
 <h3 style="padding-top: 15px;">¿Más?</h3>
 No paramos y desde la organización queremos que todo el mundo participe y tenga hueco. Tenemos fechas programadas y estamos en constante búsqueda de ponentes, así que no lo dudes y si quieres participar en futuros meetups, o dejarnos tus sugerencias y comentarios, escríbenos a <a href="mailto:xantardev@outlook.com">xantardev@outlook.com</a> o lánzanos tu propuesta directamente a través de este <a href="https://goo.gl/forms/TjwRIQdwrwLXIYCX2" target="_blank" rel="noopener noreferrer">formulario</a>. XantarDev lo formamos la comunidad.
 

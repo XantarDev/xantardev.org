@@ -9,7 +9,7 @@ categories: ["eventos"]
 tags: []
 excerpt: ""
 ---
-<a href="/wp-content/uploads/2018/04/poster_horizontal_e_upd_v2.jpg"><img class="aligncenter size-full wp-image-62" src="/wp-content/uploads/2018/04/poster_horizontal_e_upd_v2.jpg" alt="" width="1001" height="500"></a>
+<a href="{{ '/wp-content/uploads/2018/04/poster_horizontal_e_upd_v2.jpg' | relative_url }}"><img class="aligncenter size-full wp-image-62" src="{{ '/wp-content/uploads/2018/04/poster_horizontal_e_upd_v2.jpg' | relative_url }}" alt="" width="1001" height="500"></a>
 
 <span style="color: #ff0000;">UPDATE 05/04:&nbsp; <span style="color: #000000;">ULTIMA HORA! Debido a un problema de última hora no podremos contar con Israel Luengo y su charla de RadStudio C++. En su lugar David Gonzalo estará con nosotros hablando de bots, qué son, cómo han llegado, y porqué están para quedarse. Esperamos que sea de interés de todos y nos vemos mañana en el meetup. </span></span>
 
@@ -46,7 +46,7 @@ Dirección: Rúa da Virxe de Fátima, 2, 15702 Santiago de Compostela, A Coruña
 
 Y también os dejamos un mapa detallando las zonas de aparcamiento y paradas de autobús.
 
-<a href="/wp-content/uploads/2018/03/MapaZona_e.png"><img class="size-medium wp-image-55" src="/wp-content/uploads/2018/03/MapaZona_e-300x258.png" alt="Mapa Centro Socio Cultural" width="300" height="258"></a>
+<a href="{{ '/wp-content/uploads/2018/03/MapaZona_e.png' | relative_url }}"><img class="size-medium wp-image-55" src="{{ '/wp-content/uploads/2018/03/MapaZona_e-300x258.png' | relative_url }}" alt="Mapa Centro Socio Cultural" width="300" height="258"></a>
 <h2>Patrocinadores</h2>
 Si quieres apoyar a la comunidad o este evento, no dudes en contactar con nosotros en xantardev@outlook.com. Cualquier colaboración será bien recibida.
 <h2>¿Más?</h2>
@@ -55,6 +55,6 @@ No paramos y desde la organización queremos que todo el mundo participe y tenga
 Comparte nuestro tweet: <a href="https://twitter.com/XantarDev/status/971390054147985408">https://twitter.com/XantarDev/status/971390054147985408</a>
 o bien tenemos esta imagen para que puedas compartirla en redes sociales. Siempre aprovechamos para agradecer a las empresas y entidades que nos apoyan.
 
-<a href="/wp-content/uploads/2018/04/poster_2018_04_06_e_upd_v2.jpg"><img class="aligncenter size-full wp-image-58" src="/wp-content/uploads/2018/04/poster_2018_04_06_e_upd_v2.jpg" alt="" width="424" height="1060"></a>
+<a href="{{ '/wp-content/uploads/2018/04/poster_2018_04_06_e_upd_v2.jpg' | relative_url }}"><img class="aligncenter size-full wp-image-58" src="{{ '/wp-content/uploads/2018/04/poster_2018_04_06_e_upd_v2.jpg' | relative_url }}" alt="" width="424" height="1060"></a>
 
 Nos vemos en el evento! Happy coding!

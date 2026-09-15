@@ -192,7 +192,7 @@ https://github.com/jcleira/XantarJ-HackDayHispano-Kubernetes-Workshop
 
 
 
-<figure class="wp-block-image"><a href="https://www.indracompany.com/"><img src="/wp-content/uploads/2018/09/image007.png" alt="" class="wp-image-283"></a></figure>
+<figure class="wp-block-image"><a href="https://www.indracompany.com/"><img src="{{ '/wp-content/uploads/2018/09/image007.png' | relative_url }}" alt="" class="wp-image-283"></a></figure>
 
 
 
@@ -200,15 +200,15 @@ https://github.com/jcleira/XantarJ-HackDayHispano-Kubernetes-Workshop
 
 
 
-<figure class="wp-block-image aligncenter"><a href="https://www.gradiant.org/"><img src="/wp-content/uploads/2018/09/Gradiant_logo.png" alt="" class="wp-image-284"></a></figure>
+<figure class="wp-block-image aligncenter"><a href="https://www.gradiant.org/"><img src="{{ '/wp-content/uploads/2018/09/Gradiant_logo.png' | relative_url }}" alt="" class="wp-image-284"></a></figure>
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><a href="https://coru.net/"><img src="/wp-content/uploads/2018/09/corunet.png" alt="" class="wp-image-285" style="width:210px;height:210px"></a></figure>
+<figure class="wp-block-image aligncenter is-resized"><a href="https://coru.net/"><img src="{{ '/wp-content/uploads/2018/09/corunet.png' | relative_url }}" alt="" class="wp-image-285" style="width:210px;height:210px"></a></figure>
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><a href="https://kiom.com.es/index.php/gallery"><img src="/wp-content/uploads/2018/09/kiom.png" alt="" class="wp-image-291" style="width:219px;height:133px"></a></figure>
+<figure class="wp-block-image aligncenter is-resized"><a href="https://kiom.com.es/index.php/gallery"><img src="{{ '/wp-content/uploads/2018/09/kiom.png' | relative_url }}" alt="" class="wp-image-291" style="width:219px;height:133px"></a></figure>
 
 
 
@@ -216,7 +216,7 @@ https://github.com/jcleira/XantarJ-HackDayHispano-Kubernetes-Workshop
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><a href="http://optaresolutions.com/es/"><img src="/wp-content/uploads/2018/09/optare.png" alt="" class="wp-image-288" style="width:175px;height:175px"></a></figure>
+<figure class="wp-block-image aligncenter is-resized"><a href="http://optaresolutions.com/es/"><img src="{{ '/wp-content/uploads/2018/09/optare.png' | relative_url }}" alt="" class="wp-image-288" style="width:175px;height:175px"></a></figure>
 
 
 
@@ -224,11 +224,11 @@ https://github.com/jcleira/XantarJ-HackDayHispano-Kubernetes-Workshop
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img src="/wp-content/uploads/2018/09/dinahosting.jpg" alt="" class="wp-image-296" style="width:216px;height:108px"></figure>
+<figure class="wp-block-image aligncenter is-resized"><img src="{{ '/wp-content/uploads/2018/09/dinahosting.jpg' | relative_url }}" alt="" class="wp-image-296" style="width:216px;height:108px"></figure>
 
 
 
-<figure class="wp-block-image aligncenter is-resized"><img src="/wp-content/uploads/2018/09/jetbrains.png" alt="" class="wp-image-297" style="width:101px;height:109px"></figure>
+<figure class="wp-block-image aligncenter is-resized"><img src="{{ '/wp-content/uploads/2018/09/jetbrains.png' | relative_url }}" alt="" class="wp-image-297" style="width:101px;height:109px"></figure>
 
 
 

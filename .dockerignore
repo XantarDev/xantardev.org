@@ -1,0 +1,17 @@
+.git
+.atl
+.pi
+node_modules
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+ltxantardevgt.WordPress.2026-09-14.xml
+*.WordPress.*.xml
+*.wxr
+migration/private
+migration/fingerprints
+migration/audit
+migration/staging
+migration/cache
+migration/logs

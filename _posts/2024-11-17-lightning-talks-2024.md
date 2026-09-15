@@ -10,7 +10,7 @@ tags: []
 excerpt: ""
 ---
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2024/11/2024-10-lightning-talks-portada.jpg"><img src="/wp-content/uploads/2024/11/2024-10-lightning-talks-portada-1024x576.jpg" alt="" class="wp-image-720"></a></figure>
+<figure class="wp-block-image size-large"><a href="{{ '/wp-content/uploads/2024/11/2024-10-lightning-talks-portada.jpg' | relative_url }}"><img src="{{ '/wp-content/uploads/2024/11/2024-10-lightning-talks-portada-1024x576.jpg' | relative_url }}" alt="" class="wp-image-720"></a></figure>
 
 
 
@@ -54,9 +54,9 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image is-resized"><a href="/wp-content/uploads/2018/03/MapaZona_e.png"><img src="/wp-content/uploads/2018/03/MapaZona_e-300x258.png" alt="Mapa Centro Socio Cultural O Castiñeiriño" class="wp-image-55" style="width:304px;height:261px"></a></figure>
+<figure class="wp-block-image is-resized"><a href="{{ '/wp-content/uploads/2018/03/MapaZona_e.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2018/03/MapaZona_e-300x258.png' | relative_url }}" alt="Mapa Centro Socio Cultural O Castiñeiriño" class="wp-image-55" style="width:304px;height:261px"></a></figure>
 
 
 
-<p><br><strong>• ¡Compártelo!</strong><br>Síguenos en <a href="https://twitter.com/xantardev" target="_blank" rel="noreferrer noopener">@XantarDev</a> y comparte el evento.<br><strong>• Respeta el código</strong><br>Échale un ojo a nuestro <a href="/codigo-de-conducta/" target="_blank" rel="noreferrer noopener">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
+<p><br><strong>• ¡Compártelo!</strong><br>Síguenos en <a href="https://twitter.com/xantardev" target="_blank" rel="noreferrer noopener">@XantarDev</a> y comparte el evento.<br><strong>• Respeta el código</strong><br>Échale un ojo a nuestro <a href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank" rel="noreferrer noopener">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
 

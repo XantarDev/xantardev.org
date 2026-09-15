@@ -10,7 +10,7 @@ tags: []
 excerpt: ""
 ---
 
-<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2020/04/highres_490037097.jpeg" alt="" class="wp-image-537"></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/wp-content/uploads/2020/04/highres_490037097.jpeg' | relative_url }}" alt="" class="wp-image-537"></figure>
 
 
 

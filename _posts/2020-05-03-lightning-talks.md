@@ -10,7 +10,7 @@ tags: []
 excerpt: ""
 ---
 
-<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2020/05/promo_lighiting_talks_xantardev_blog_1000x503.jpg" alt="cartel promo Lightning Talks" class="wp-image-545"></figure>
+<figure class="wp-block-image size-large"><img src="{{ '/wp-content/uploads/2020/05/promo_lighiting_talks_xantardev_blog_1000x503.jpg' | relative_url }}" alt="cartel promo Lightning Talks" class="wp-image-545"></figure>
 
 
 
@@ -62,7 +62,7 @@ excerpt: ""
 
 
 
-<p><br><strong>• Respeta el código</strong><br><br>Échale un ojo a nuestro <a rel="noreferrer noopener" href="/codigo-de-conducta/" target="_blank">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
+<p><br><strong>• Respeta el código</strong><br><br>Échale un ojo a nuestro <a rel="noreferrer noopener" href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
 
 
 

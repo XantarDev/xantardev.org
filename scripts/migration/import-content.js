@@ -61,6 +61,20 @@ function taxonomies(item, domain) {
     .filter(Boolean);
 }
 
+function jekyllRelativeUrls(html) {
+  const attributeUrl = /\b(href|src|poster|action|formaction|data)="(\/[^"]*)"/g;
+  const srcset = /\bsrcset="([^"]*)"/g;
+  return html
+    .replace(attributeUrl, (_, name, path) => `${name}="{{ '${path}' | relative_url }}"`)
+    .replace(srcset, (_, value) => {
+      const candidates = value.split(',').map((candidate) => candidate.trim()).filter(Boolean).map((candidate) => {
+        const [, path, descriptor = ''] = candidate.match(/^(\/\S+)(?:\s+(.+))?$/) ?? [];
+        return path ? `{{ '${path}' | relative_url }}${descriptor ? ` ${descriptor}` : ''}` : candidate;
+      });
+      return `srcset="${candidates.join(', ')}"`;
+    });
+}
+
 function recordFromItem(item) {
   const type = text(item['wp:post_type']);
   const status = text(item['wp:status']);
@@ -79,7 +93,7 @@ function recordFromItem(item) {
     categories: taxonomies(item, 'category'),
     tags: taxonomies(item, 'post_tag'),
     excerpt: text(item['excerpt:encoded'] || item.description),
-    content: normalizeContent(text(item['content:encoded'])),
+    content: jekyllRelativeUrls(normalizeContent(text(item['content:encoded']))),
   };
 }
 

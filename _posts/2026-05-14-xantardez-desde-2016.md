@@ -10,7 +10,7 @@ tags: []
 excerpt: "Tokiota"
 ---
 
-<figure class="wp-block-image aligncenter size-large is-style-default"><a href="/wp-content/uploads/2026/05/xantardez_Gemini_Generated_Image_v4.png"><img src="/wp-content/uploads/2026/05/xantardez_Gemini_Generated_Image_v4-1024x559.png" alt="" class="wp-image-757" style="object-fit:cover"></a></figure>
+<figure class="wp-block-image aligncenter size-large is-style-default"><a href="{{ '/wp-content/uploads/2026/05/xantardez_Gemini_Generated_Image_v4.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2026/05/xantardez_Gemini_Generated_Image_v4-1024x559.png' | relative_url }}" alt="" class="wp-image-757" style="object-fit:cover"></a></figure>
 
 
 
@@ -70,7 +70,7 @@ excerpt: "Tokiota"
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/2026/05/20260516_promo_David_ok.png"><img src="/wp-content/uploads/2026/05/20260516_promo_David_ok-1024x682.png" alt="" class="wp-image-762" style="width:500px"></a></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="{{ '/wp-content/uploads/2026/05/20260516_promo_David_ok.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2026/05/20260516_promo_David_ok-1024x682.png' | relative_url }}" alt="" class="wp-image-762" style="width:500px"></a></figure>
 
 
 
@@ -80,7 +80,7 @@ excerpt: "Tokiota"
 
 
 
-<figure class="wp-block-image alignfull size-large"><a href="/wp-content/uploads/2026/05/tokiota_big-1400x239-1.jpg"><img src="/wp-content/uploads/2026/05/tokiota_big-1400x239-1-1024x175.jpg" alt="" class="wp-image-763"></a></figure>
+<figure class="wp-block-image alignfull size-large"><a href="{{ '/wp-content/uploads/2026/05/tokiota_big-1400x239-1.jpg' | relative_url }}"><img src="{{ '/wp-content/uploads/2026/05/tokiota_big-1400x239-1-1024x175.jpg' | relative_url }}" alt="" class="wp-image-763"></a></figure>
 
 
 
@@ -90,7 +90,7 @@ excerpt: "Tokiota"
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/2026/05/20260516_promo_Unai_ok.png"><img src="/wp-content/uploads/2026/05/20260516_promo_Unai_ok-1024x683.png" alt="" class="wp-image-760" style="width:500px"></a></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="{{ '/wp-content/uploads/2026/05/20260516_promo_Unai_ok.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2026/05/20260516_promo_Unai_ok-1024x683.png' | relative_url }}" alt="" class="wp-image-760" style="width:500px"></a></figure>
 
 
 
@@ -104,7 +104,7 @@ excerpt: "Tokiota"
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><a href="/wp-content/uploads/2026/05/20260516_promo_Alba_ok.png"><img src="/wp-content/uploads/2026/05/20260516_promo_Alba_ok-1024x682.png" alt="" class="wp-image-761" style="width:500px"></a></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="{{ '/wp-content/uploads/2026/05/20260516_promo_Alba_ok.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2026/05/20260516_promo_Alba_ok-1024x682.png' | relative_url }}" alt="" class="wp-image-761" style="width:500px"></a></figure>
 
 
 
@@ -154,7 +154,7 @@ excerpt: "Tokiota"
 
 
 
-<figure class="wp-block-image aligncenter size-full"><a href="/wp-content/uploads/2025/09/image-3.png"><img src="/wp-content/uploads/2025/09/image-3.png" alt="" class="wp-image-741"></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="{{ '/wp-content/uploads/2025/09/image-3.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2025/09/image-3.png' | relative_url }}" alt="" class="wp-image-741"></a></figure>
 
 
 
@@ -174,5 +174,5 @@ excerpt: "Tokiota"
 
 
 
-<p><br><strong>• ¡Compártelo!</strong><br>Síguenos en <a href="https://twitter.com/xantardev" target="_blank" rel="noreferrer noopener">@XantarDev</a> y comparte el evento.<br><strong>• Respeta el código</strong><br>Échale un ojo a nuestro <a href="/codigo-de-conducta/" target="_blank" rel="noreferrer noopener">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
+<p><br><strong>• ¡Compártelo!</strong><br>Síguenos en <a href="https://twitter.com/xantardev" target="_blank" rel="noreferrer noopener">@XantarDev</a> y comparte el evento.<br><strong>• Respeta el código</strong><br>Échale un ojo a nuestro <a href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank" rel="noreferrer noopener">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
 

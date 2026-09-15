@@ -9,7 +9,7 @@ categories: ["eventos"]
 tags: []
 excerpt: ""
 ---
-<img class="aligncenter size-full wp-image-62" src="/wp-content/uploads/2019/02/poster_horizontal_e_meetup.jpg" alt="" width="1001" height="500">
+<img class="aligncenter size-full wp-image-62" src="{{ '/wp-content/uploads/2019/02/poster_horizontal_e_meetup.jpg' | relative_url }}" alt="" width="1001" height="500">
 
 ¡Ahora sí! Comenzamos el 2019 en XantarDev. Después de unos meses de parón por las Navidades. Hemos vuelto y traemos un par de eventos en los próximos meses que son de categoría, asi que ¡no podéis faltar!
 
@@ -52,22 +52,22 @@ Dirección: Rúa da Virxe de Fátima, 2, 15702 Santiago de Compostela, A Coruña
 
 Os dejamos un mapa detallando las zonas de aparcamiento y paradas de autobús.
 
-<a href="/wp-content/uploads/2018/03/MapaZona_e.png" target="_blank" rel="noopener noreferrer"><img class="size-medium wp-image-55" src="/wp-content/uploads/2018/03/MapaZona_e-300x258.png" alt="Mapa Centro Socio Cultural" width="300" height="258"></a>
+<a href="{{ '/wp-content/uploads/2018/03/MapaZona_e.png' | relative_url }}" target="_blank" rel="noopener noreferrer"><img class="size-medium wp-image-55" src="{{ '/wp-content/uploads/2018/03/MapaZona_e-300x258.png' | relative_url }}" alt="Mapa Centro Socio Cultural" width="300" height="258"></a>
 <h2>Patrocinadores</h2>
 ¿Quieres colaborar aportando con material, comida, bebida, etc...? ¡Estaremos encantados! Ponte en contacto con nosotros en xantardev@outlook.com
 <h4>Patrocinios Especiales</h4>
-<img style="max-height: 100px;" src="/wp-content/uploads/2018/04/jetbrains.png">
+<img style="max-height: 100px;" src="{{ '/wp-content/uploads/2018/04/jetbrains.png' | relative_url }}">
 <em>Jet Brains - nos dará una licencia anual en sus productos para sortear entre los asistentes.</em>
 
 Si quieres convertirte en uno de nuestro patrocinadores para para ayudar a la comunidad, tenemos <a href="https://drive.google.com/open?id=1WxqpHvQXFL2xdtEtsX0UiIqG_lERLrym" target="_blank" rel="noopener noreferrer">este documento que puedes ver aqui.</a> con todo el detalle de lo que hemos hecho en nuestro aniversario de mayo del 2018. No dudes en contactar con nosotros en xantardev@outlook.com. Cualquier colaboración será bien recibida.
 <h2>Colaboradores</h2>
-<img class="imgSize" style="max-height: 100px;" src="/wp-content/uploads/2018/04/ayuntamiento_scq_back_white.jpeg">
+<img class="imgSize" style="max-height: 100px;" src="{{ '/wp-content/uploads/2018/04/ayuntamiento_scq_back_white.jpeg' | relative_url }}">
 
 Mención especial y agradecimiento al personal del Centro Sociocultural de O Castiñeiriño que siempre nos ayuda en lo que necesitamos. Puedes ver todo lo que hacen <a href="https://es-es.facebook.com/pages/category/Education/Centro-Sociocultural-do-Casti%C3%B1eiri%C3%B1o-Agust%C3%ADn-Bueno-396406743782834/" target="_blank" rel="noopener noreferrer">en su página de facebook.</a>
 <h2>Compártelo!</h2>
 Síguenos en twitter y comparte el evento.
 <h2>Y respeta el código</h2>
-Tenemos publicado en <a title="codigo conducta" href="/codigo-de-conducta/" target="_blank" rel="noopener noreferrer">este enlace</a> nuestro código de conducta aplicable en todos los eventos que realizamos.
+Tenemos publicado en <a title="codigo conducta" href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank" rel="noopener noreferrer">este enlace</a> nuestro código de conducta aplicable en todos los eventos que realizamos.
 
 En resumen, todos somos adultos <strong>respeta y serás respetado</strong>.
 <h2>¿Más?</h2>

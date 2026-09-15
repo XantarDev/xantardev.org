@@ -10,7 +10,7 @@ tags: []
 excerpt: ""
 ---
 
-<figure class="wp-block-image size-full is-resized"><a href="/wp-content/uploads/2022/04/xantardev_aniversario4_promo.jpg"><img src="/wp-content/uploads/2022/04/xantardev_aniversario4_promo.jpg" alt="" class="wp-image-634" width="1101" height="689"></a></figure>
+<figure class="wp-block-image size-full is-resized"><a href="{{ '/wp-content/uploads/2022/04/xantardev_aniversario4_promo.jpg' | relative_url }}"><img src="{{ '/wp-content/uploads/2022/04/xantardev_aniversario4_promo.jpg' | relative_url }}" alt="" class="wp-image-634" width="1101" height="689"></a></figure>
 
 
 
@@ -22,7 +22,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image aligncenter size-medium is-resized"><a href="https://refuxio.gal/"><img src="/wp-content/uploads/2022/04/refuxiodebando-logotipo-300x125.png" alt="O Refuxio de Bando" class="wp-image-664" width="225" height="94"></a></figure>
+<figure class="wp-block-image aligncenter size-medium is-resized"><a href="https://refuxio.gal/"><img src="{{ '/wp-content/uploads/2022/04/refuxiodebando-logotipo-300x125.png' | relative_url }}" alt="O Refuxio de Bando" class="wp-image-664" width="225" height="94"></a></figure>
 
 
 
@@ -172,7 +172,7 @@ excerpt: ""
 
 
 
-<p>Para el control de aforo es importante reservar tu entrada en Eventbrite. <a href="https://www.eventbrite.es/e/entradas-aniversario-ivii-319628486407"><img width="100" height="18" class="alignnone wp-image-601 size-full" src="/wp-content/uploads/2021/11/Eventbrite.png" alt=""></a></p>
+<p>Para el control de aforo es importante reservar tu entrada en Eventbrite. <a href="https://www.eventbrite.es/e/entradas-aniversario-ivii-319628486407"><img width="100" height="18" class="alignnone wp-image-601 size-full" src="{{ '/wp-content/uploads/2021/11/Eventbrite.png' | relative_url }}" alt=""></a></p>
 
 
 
@@ -206,7 +206,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image is-resized"><a href="/wp-content/uploads/2018/03/MapaZona_e.png"><img src="/wp-content/uploads/2018/03/MapaZona_e-300x258.png" alt="Mapa Centro Socio Cultural O Castiñeiriño" class="wp-image-55" width="304" height="261"></a></figure>
+<figure class="wp-block-image is-resized"><a href="{{ '/wp-content/uploads/2018/03/MapaZona_e.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2018/03/MapaZona_e-300x258.png' | relative_url }}" alt="Mapa Centro Socio Cultural O Castiñeiriño" class="wp-image-55" width="304" height="261"></a></figure>
 
 
 
@@ -218,7 +218,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://www.plainconcepts.com/"><img src="/wp-content/uploads/2022/04/plain-concepts-01-main-logo-RGB_s.png" alt="PlainConcepts" class="wp-image-671" width="550" height="250"></a></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://www.plainconcepts.com/"><img src="{{ '/wp-content/uploads/2022/04/plain-concepts-01-main-logo-RGB_s.png' | relative_url }}" alt="PlainConcepts" class="wp-image-671" width="550" height="250"></a></figure>
 
 
 
@@ -234,7 +234,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><a href="https://tokiota.com/"><img src="/wp-content/uploads/2022/05/PNG-Transp_-TOKIOTA-1024x125.png" alt="" class="wp-image-694" width="512" height="63"></a></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><a href="https://tokiota.com/"><img src="{{ '/wp-content/uploads/2022/05/PNG-Transp_-TOKIOTA-1024x125.png' | relative_url }}" alt="" class="wp-image-694" width="512" height="63"></a></figure>
 
 
 
@@ -258,7 +258,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image aligncenter size-medium is-resized"><a href="https://www.teimas.com/es"><img src="/wp-content/uploads/2022/04/logo_teimas_small-300x71.png" alt="Teimas" class="wp-image-660" width="300" height="71"></a></figure>
+<figure class="wp-block-image aligncenter size-medium is-resized"><a href="https://www.teimas.com/es"><img src="{{ '/wp-content/uploads/2022/04/logo_teimas_small-300x71.png' | relative_url }}" alt="Teimas" class="wp-image-660" width="300" height="71"></a></figure>
 
 
 
@@ -274,7 +274,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image aligncenter size-full"><a href="https://bahiasoftware.es/home"><img src="/wp-content/uploads/2022/05/logo-bahia.png" alt="" class="wp-image-692"></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="https://bahiasoftware.es/home"><img src="{{ '/wp-content/uploads/2022/05/logo-bahia.png' | relative_url }}" alt="" class="wp-image-692"></a></figure>
 
 
 
@@ -294,7 +294,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://balidea.com/"><img src="/wp-content/uploads/2022/05/logo-BALIDEA_20YEARS_RGB-03.png" alt="" class="wp-image-693" width="419" height="65"></a></figure>
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://balidea.com/"><img src="{{ '/wp-content/uploads/2022/05/logo-BALIDEA_20YEARS_RGB-03.png' | relative_url }}" alt="" class="wp-image-693" width="419" height="65"></a></figure>
 
 
 
@@ -322,7 +322,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image"><a href="http://santiagodecompostela.gal" target="_blank" rel="noreferrer noopener"><img src="/wp-content/uploads/2018/04/ayuntamiento_scq_back_white.jpeg" alt=""></a></figure>
+<figure class="wp-block-image"><a href="http://santiagodecompostela.gal" target="_blank" rel="noreferrer noopener"><img src="{{ '/wp-content/uploads/2018/04/ayuntamiento_scq_back_white.jpeg' | relative_url }}" alt=""></a></figure>
 
 
 
@@ -330,7 +330,7 @@ excerpt: ""
 
 
 
-<p>Tenemos publicado en <a href="/codigo-de-conducta/" target="_blank" rel="noreferrer noopener">este enlace</a> nuestro código de conducta aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
+<p>Tenemos publicado en <a href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank" rel="noreferrer noopener">este enlace</a> nuestro código de conducta aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
 
 
 

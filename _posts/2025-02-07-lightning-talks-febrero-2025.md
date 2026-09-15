@@ -10,7 +10,7 @@ tags: []
 excerpt: ""
 ---
 
-<figure class="wp-block-image size-large"><a href="/wp-content/uploads/2025/09/image.png"><img src="/wp-content/uploads/2025/09/image-1024x576.png" alt="" class="wp-image-732"></a></figure>
+<figure class="wp-block-image size-large"><a href="{{ '/wp-content/uploads/2025/09/image.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2025/09/image-1024x576.png' | relative_url }}" alt="" class="wp-image-732"></a></figure>
 
 
 
@@ -38,7 +38,7 @@ excerpt: ""
 
 
 
-<figure class="wp-block-image size-large is-resized"><a href="/wp-content/uploads/2025/09/image-1.png"><img src="/wp-content/uploads/2025/09/image-1-1024x322.png" alt="" class="wp-image-735" style="width:477px;height:auto"></a></figure>
+<figure class="wp-block-image size-large is-resized"><a href="{{ '/wp-content/uploads/2025/09/image-1.png' | relative_url }}"><img src="{{ '/wp-content/uploads/2025/09/image-1-1024x322.png' | relative_url }}" alt="" class="wp-image-735" style="width:477px;height:auto"></a></figure>
 
 
 
@@ -54,5 +54,5 @@ excerpt: ""
 
 
 
-<p><strong>• ¡Compártelo!</strong><br>Síguenos en <a href="https://twitter.com/xantardev" target="_blank" rel="noreferrer noopener">@XantarDev</a> y comparte el evento.<br><strong>• Respeta el código</strong><br>Échale un ojo a nuestro <a href="/codigo-de-conducta/" target="_blank" rel="noreferrer noopener">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
+<p><strong>• ¡Compártelo!</strong><br>Síguenos en <a href="https://twitter.com/xantardev" target="_blank" rel="noreferrer noopener">@XantarDev</a> y comparte el evento.<br><strong>• Respeta el código</strong><br>Échale un ojo a nuestro <a href="{{ '/codigo-de-conducta/' | relative_url }}" target="_blank" rel="noreferrer noopener">código de conducta</a>, aplicable en todos los eventos que realizamos. En resumen, <strong>respeta</strong>.</p>
 
