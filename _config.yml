@@ -1,5 +1,7 @@
 title: "<XantarDev />"
 description: "Comunidad Técnica"
+logo: "/favicon.svg"
+social_image: "/assets/img/social-default.svg"
 url: "https://xantardev.github.io"
 baseurl: "/xantardev.org"
 lang: "gl-ES"
