@@ -2,14 +2,40 @@
 layout: default
 title: "<XantarDev />"
 ---
-<section class="post-list">
-  {% assign posts = site.posts | sort: 'date' | reverse %}
-  {% for post in posts %}
-    <article class="post-card">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p class="entry-meta">{{ post.date | date: '%d/%m/%Y' }} · {{ post.author }}</p>
-      {% if post.excerpt %}<div class="entry-summary">{{ post.excerpt | strip_html | truncate: 260 }}</div>{% endif %}
-      <p><a class="read-more" href="{{ post.url | relative_url }}">Read more</a></p>
+<section class="post-list" aria-labelledby="latest-posts-title">
+  <h2 id="latest-posts-title">Últimas publicacións</h2>
+  {% for post in paginator.posts %}
+    {% assign image_parts = post.content | split: '<img' %}
+    {% assign image_attributes = image_parts[1] | split: '>' | first %}
+    {% assign image_source = image_attributes | split: 'src="' | last | split: '"' | first %}
+    {% assign is_event = false %}
+    {% if post.categories contains 'eventos' %}{% assign is_event = true %}{% endif %}
+    <article class="post-card{% if is_event %} post-card--event{% endif %}">
+      {% if image_parts.size > 1 and image_source != image_attributes %}
+        <a class="post-card-image" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }}">
+          <img src="{{ image_source }}" alt="" loading="lazy">
+        </a>
+      {% endif %}
+      <div class="post-card-body">
+        {% if is_event %}<p class="post-type">Evento</p>{% endif %}
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="entry-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d/%m/%Y' }}</time>{% if post.author %} · {{ post.author }}{% endif %}</p>
+        {% assign summary = post.excerpt | default: post.content %}
+        <div class="entry-summary">{{ summary | strip_html | normalize_whitespace | truncate: 260 }}</div>
+        <p class="post-card-link"><a class="read-more" href="{{ post.url | relative_url }}">Ler máis <span aria-hidden="true">→</span></a></p>
+      </div>
     </article>
   {% endfor %}
 </section>
+
+{% if paginator.total_pages > 1 %}
+  <nav class="pagination" aria-label="Paginación">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">Máis recentes</a>
+    {% endif %}
+    <span>Páxina {{ paginator.page }} de {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Anteriores</a>
+    {% endif %}
+  </nav>
+{% endif %}

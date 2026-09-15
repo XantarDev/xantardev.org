@@ -5,6 +5,20 @@ baseurl: "/xantardev.org"
 lang: "gl-ES"
 timezone: "Europe/Madrid"
 permalink: "/:title/"
+paginate: 5
+paginate_path: "/page:num/"
+
+sponsors:
+  - name: "Tokiota"
+    logo: "/wp-content/uploads/2026/05/tokiota_big-1400x239-1-1024x175.jpg"
+  - name: "Balidea"
+    logo: "/wp-content/uploads/2022/05/logo-BALIDEA_20YEARS_RGB-03.png"
+  - name: "Plain Concepts"
+    logo: "/wp-content/uploads/2022/04/plain-concepts-01-main-logo-RGB_s.png"
+  - name: "dinahosting"
+    logo: "/wp-content/uploads/2018/05/dinahostingLogo.png"
+  - name: "Teimas"
+    logo: "/wp-content/uploads/2018/05/logo_teimas.jpg"
 
 exclude:
   - node_modules/

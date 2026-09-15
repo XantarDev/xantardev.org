@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title | escape }} – {% endif %}{{ site.title | escape }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
 <body>
   <header class="site-header">
     <div class="inner-wrap">
-      <div class="brand">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <p>{{ site.description }}</p>
+      <div class="site-branding">
+        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></h1>
+        <p class="site-description">{{ site.description | escape }}</p>
       </div>
       <nav class="main-navigation" aria-label="Principal">
         <a href="{{ '/xd/' | relative_url }}">¿Qué es XantarDev?</a>
@@ -20,7 +20,21 @@
       </nav>
     </div>
   </header>
-  <main class="inner-wrap content" id="main">{{ content }}</main>
-  <footer class="site-footer"><div class="inner-wrap">&copy; {{ site.time | date: '%Y' }} {{ site.title }}</div></footer>
+  <main class="inner-wrap content" id="main">
+    <div class="content-layout">
+      <div class="primary-content">{{ content }}</div>
+      <aside class="site-sidebar" aria-labelledby="sponsors-title">
+        <h2 id="sponsors-title">Patrocinadores</h2>
+        <div class="sponsor-list">
+          {% for sponsor in site.sponsors %}
+            <div class="sponsor-logo">
+              <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }}">
+            </div>
+          {% endfor %}
+        </div>
+      </aside>
+    </div>
+  </main>
+  <footer class="site-footer"><div class="inner-wrap">&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }}</div></footer>
 </body>
 </html>
