@@ -12,6 +12,12 @@ Open <http://localhost:4000/xantardev.org/>. The local Docker server uses the sa
 
 For the future custom domain, change `_config.yml` back to `url: "https://xantardev.org"` and `baseurl: ""` before cutover.
 
+## Crawler discovery
+
+`jekyll-sitemap` generates `sitemap.xml` at the configured project URL: `https://xantardev.github.io/xantardev.org/sitemap.xml`. After publication, submit that URL to Google Search Console; the local build does not establish that it is deployed or indexed.
+
+Jekyll excludes internal `odd/` task documents and previous `_site/` output from builds. The sitemap plugin also generates `/xantardev.org/robots.txt`, but this project-path file cannot govern host-level crawling: policy for `xantardev.github.io/robots.txt` is outside this project's control.
+
 ## Social sharing metadata
 
 Default SEO/Open Graph/Twitter metadata is generated from `_includes/head.html` using `_config.yml` values.

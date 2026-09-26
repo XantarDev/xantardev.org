@@ -10,6 +10,9 @@ permalink: "/:title/"
 paginate: 5
 paginate_path: "/page:num/"
 
+plugins:
+  - jekyll-sitemap
+
 sponsor_sections:
   - title: "Alojamiento"
     sponsors:
@@ -34,6 +37,8 @@ sponsor_sections:
         logo: "/wp-content/uploads/2018/06/commit.png"
 
 exclude:
+  - odd/
+  - _site/
   - Dockerfile
   - docker-compose.yml
   - README.md
