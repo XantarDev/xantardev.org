@@ -1,7 +1,12 @@
 ---
 layout: default
 title:
+description: "XantarDev reúne a comunidade tecnolóxica para compartir coñecemento, experiencias e encontros desde 2016. Descubre as últimas publicacións e eventos."
 ---
+<section class="home-intro" aria-labelledby="home-title">
+  <h1 id="home-title">XantarDev: comunidade tecnolóxica desde 2016</h1>
+  <p>{{ page.description | escape }}</p>
+</section>
 <section class="post-list" aria-labelledby="latest-posts-title">
   <h2 id="latest-posts-title">Últimas publicaciones</h2>
   {% for post in paginator.posts %}
@@ -18,7 +23,7 @@ title:
       {% endif %}
       <div class="post-card-body">
         {% if is_event %}<p class="post-type">Evento</p>{% endif %}
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
         <p class="entry-meta"><time datetime="{{ post.date | date_to_xmlschema }}">📆 {{ post.date | date: '%d/%m/%Y' }}</time>{% if post.author %} · 👤 {{ post.author }}{% endif %}</p>
         {% assign summary = post.excerpt | default: post.content %}
         <div class="entry-summary">{{ summary | strip_html | normalize_whitespace | truncate: 260 }}</div>
