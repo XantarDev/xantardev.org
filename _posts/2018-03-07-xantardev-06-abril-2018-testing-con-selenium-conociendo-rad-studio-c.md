@@ -51,7 +51,7 @@ Y también os dejamos un mapa detallando las zonas de aparcamiento y paradas de 
 Si quieres apoyar a la comunidad o este evento, no dudes en contactar con nosotros en xantardev@outlook.com. Cualquier colaboración será bien recibida.
 <h2>¿Más?</h2>
 No paramos y desde la organización queremos que todo el mundo participe y tenga hueco. Tenemos fechas programadas y estamos en constante búsqueda de ponentes, así que no lo dudes y si quieres participar en futuros meetups, o dejarnos tus sugerencias y comentarios, escríbenos a xantardev@outlook.com . XantarDev lo formamos la comunidad.
-<h1>Compártelo!</h1>
+<h2>Compártelo!</h2>
 Comparte nuestro tweet: <a href="https://twitter.com/XantarDev/status/971390054147985408">https://twitter.com/XantarDev/status/971390054147985408</a>
 o bien tenemos esta imagen para que puedas compartirla en redes sociales. Siempre aprovechamos para agradecer a las empresas y entidades que nos apoyan.
 
