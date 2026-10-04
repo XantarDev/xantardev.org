@@ -8,15 +8,13 @@ Static Jekyll site for XantarDev, deployed with GitHub Pages.
 docker compose up --build
 ```
 
-Open <http://localhost:4000/xantardev.org/>. The local Docker server uses the same `baseurl` as the current GitHub Pages project URL.
-
-For the future custom domain, change `_config.yml` back to `url: "https://xantardev.org"` and `baseurl: ""` before cutover.
+Open <http://localhost:4000/>. The local Docker server uses the empty `baseurl` configured for the custom domain, `https://xantardev.org`.
 
 ## Crawler discovery
 
-`jekyll-sitemap` generates `sitemap.xml` at the configured project URL: `https://xantardev.github.io/xantardev.org/sitemap.xml`. After publication, submit that URL to Google Search Console; the local build does not establish that it is deployed or indexed.
+`jekyll-sitemap` generates `sitemap.xml` at the configured custom-domain URL: `https://xantardev.org/sitemap.xml`. After publication, submit that URL to Google Search Console; the local build does not establish that it is deployed or indexed.
 
-Jekyll excludes internal `odd/` task documents and previous `_site/` output from builds. The sitemap plugin also generates `/xantardev.org/robots.txt`, but this project-path file cannot govern host-level crawling: policy for `xantardev.github.io/robots.txt` is outside this project's control.
+Jekyll excludes internal `odd/` task documents and previous `_site/` output from builds. The sitemap plugin also generates `https://xantardev.org/robots.txt` at the host root, where it governs crawling for `xantardev.org` after publication.
 
 ## Social sharing metadata
 
