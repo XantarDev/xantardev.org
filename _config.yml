@@ -37,6 +37,7 @@ sponsor_sections:
         logo: "/wp-content/uploads/2018/06/commit.png"
 
 exclude:
+  - rrss/
   - odd/
   - _site/
   - Dockerfile
