@@ -46,7 +46,7 @@ debatir de tabs vs. espacios sin que sea delito electoral.
 Si alguna vez has venido a un XantarDev —o si llevas tiempo queriendo venir— este es un evento perfecto para hacerlo. Y si dudas,
 recuerda: es jornada de reflexión, tienes todo el día para pensártelo. 😄
 
-¿Te apuntas? 🚀 [enlace a Meetup]
+¿Te apuntas? 🚀 [Meetup (borrador; inscripción aún no pública)](https://www.meetup.com/xantardev/events/317197411)
 
 Cómo llegar
 

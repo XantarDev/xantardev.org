@@ -10,12 +10,12 @@
     "end_time": "13:45",
     "timezone": "Europe/Madrid",
     "venue": "CSC de Cornes",
-    "registration_url": null
+    "registration_url": "https://www.meetup.com/xantardev/events/317197411"
   },
   "sponsor": "",
   "cover_image": null,
   "pending_resources": [
-    "URL real de inscripción del evento en Meetup, pendiente de validación.",
+    "Meetup event still draft; registration not publicly available/verified.",
     "Portada real generada o aportada y aprobada; solo existe el prompt.",
     "Tarjeta real de Unai Zorrilla Castro generada o aportada y aprobada; solo existe el prompt.",
     "Tarjeta real de Lorena Méndez Otero generada o aportada y aprobada; solo existe el prompt.",
@@ -30,13 +30,13 @@
       "speaker": "Unai Zorrilla Castro",
       "image": null,
       "x": {
-        "text": "¿Cómo unir Aspire e IA para mejorar el Developer Loop? Unai Zorrilla Castro lo contará en «Aspire + IA Boost the Developer Loop». XantarDev: Jornada de Reflexión, 28 de noviembre de 2026, CSC de Cornes. Enlace de inscripción pendiente.",
-        "registration_url": null,
+        "text": "¿Cómo unir Aspire e IA para mejorar el Developer Loop? Unai Zorrilla Castro lo contará en «Aspire + IA Boost the Developer Loop». XantarDev: Jornada de Reflexión, 28 de noviembre de 2026, CSC de Cornes. Meetup en borrador, inscripción no pública: https://www.meetup.com/xantardev/events/317197411",
+        "registration_url": "https://www.meetup.com/xantardev/events/317197411",
         "image": null
       },
       "linkedin": {
-        "text": "Aspire + IA Boost the Developer Loop — Unai Zorrilla Castro. ¿Cómo podemos unir Aspire con herramientas de IA para mejorar nuestro Developer Loop de una forma sencilla? Esa es la propuesta de esta charla en XantarDev: Jornada de Reflexión. Nos vemos el 28 de noviembre de 2026 en el CSC de Cornes para reflexionar sobre tecnología y compartir ideas. Evento gratuito, con plazas limitadas. Enlace de inscripción pendiente; este texto es un borrador sin publicar.",
-        "registration_url": null,
+        "text": "Aspire + IA Boost the Developer Loop — Unai Zorrilla Castro. ¿Cómo podemos unir Aspire con herramientas de IA para mejorar nuestro Developer Loop de una forma sencilla? Esa es la propuesta de esta charla en XantarDev: Jornada de Reflexión. Nos vemos el 28 de noviembre de 2026 en el CSC de Cornes para reflexionar sobre tecnología y compartir ideas. Evento gratuito, con plazas limitadas. Meetup en borrador; inscripción aún no pública ni verificada: https://www.meetup.com/xantardev/events/317197411. Este texto es un borrador sin publicar.",
+        "registration_url": "https://www.meetup.com/xantardev/events/317197411",
         "image": null
       }
     },
@@ -46,13 +46,13 @@
       "speaker": "Lorena Méndez Otero",
       "image": null,
       "x": {
-        "text": "«De gestionar tareas a gestionar ideas con la ayuda de la IA», con Lorena Méndez Otero: agentes de IA y MCP conectados con herramientas del día a día. XantarDev, 28 de noviembre de 2026, CSC de Cornes. Enlace de inscripción pendiente.",
-        "registration_url": null,
+        "text": "«De gestionar tareas a gestionar ideas con la ayuda de la IA», con Lorena Méndez Otero: agentes de IA y MCP conectados con herramientas del día a día. XantarDev, 28 de noviembre de 2026, CSC de Cornes. Meetup en borrador, inscripción no pública: https://www.meetup.com/xantardev/events/317197411",
+        "registration_url": "https://www.meetup.com/xantardev/events/317197411",
         "image": null
       },
       "linkedin": {
-        "text": "De gestionar tareas a gestionar ideas con la ayuda de la IA — Lorena Méndez Otero. Una charla para explorar agentes de IA y servidores MCP conectados con las herramientas del día a día: consultar proyectos en Azure DevOps, generar diagramas con Draw.io y trabajar con PowerPoint, Power BI y Microsoft Fabric mediante lenguaje natural. La propuesta: pasar de la gestión manual de tareas a una gestión conectada y orientada a las decisiones. XantarDev: Jornada de Reflexión, 28 de noviembre de 2026, CSC de Cornes. Evento gratuito, con plazas limitadas. Enlace de inscripción pendiente; borrador sin publicar.",
-        "registration_url": null,
+        "text": "De gestionar tareas a gestionar ideas con la ayuda de la IA — Lorena Méndez Otero. Una charla para explorar agentes de IA y servidores MCP conectados con las herramientas del día a día: consultar proyectos en Azure DevOps, generar diagramas con Draw.io y trabajar con PowerPoint, Power BI y Microsoft Fabric mediante lenguaje natural. La propuesta: pasar de la gestión manual de tareas a una gestión conectada y orientada a las decisiones. XantarDev: Jornada de Reflexión, 28 de noviembre de 2026, CSC de Cornes. Evento gratuito, con plazas limitadas. Meetup en borrador; inscripción aún no pública ni verificada: https://www.meetup.com/xantardev/events/317197411. Borrador sin publicar.",
+        "registration_url": "https://www.meetup.com/xantardev/events/317197411",
         "image": null
       }
     },
@@ -62,13 +62,13 @@
       "speaker": "Curro Raya",
       "image": null,
       "x": {
-        "text": "«Como ser un líder y no un jefe en desarrollo de software.» — Curro Raya. Reflexionemos sobre liderazgo y equipos en XantarDev: Jornada de Reflexión, el 28 de noviembre de 2026 en el CSC de Cornes. Enlace de inscripción pendiente.",
-        "registration_url": null,
+        "text": "«Como ser un líder y no un jefe en desarrollo de software.» — Curro Raya. Reflexionemos sobre liderazgo y equipos en XantarDev: Jornada de Reflexión, el 28 de noviembre de 2026 en el CSC de Cornes. Meetup en borrador, inscripción no pública: https://www.meetup.com/xantardev/events/317197411",
+        "registration_url": "https://www.meetup.com/xantardev/events/317197411",
         "image": null
       },
       "linkedin": {
-        "text": "Como ser un líder y no un jefe en desarrollo de software. — Curro Raya. Ser jefe y ser líder no es lo mismo: esta charla propone reflexionar sobre cómo podemos ser líderes y hacer que un equipo de gente normal sea un equipo de champions. Una conversación sobre liderazgo en desarrollo de software para XantarDev: Jornada de Reflexión. El 28 de noviembre de 2026 nos reunimos en el CSC de Cornes. Evento gratuito, con plazas limitadas. Enlace de inscripción pendiente; borrador sin publicar.",
-        "registration_url": null,
+        "text": "Como ser un líder y no un jefe en desarrollo de software. — Curro Raya. Ser jefe y ser líder no es lo mismo: esta charla propone reflexionar sobre cómo podemos ser líderes y hacer que un equipo de gente normal sea un equipo de champions. Una conversación sobre liderazgo en desarrollo de software para XantarDev: Jornada de Reflexión. El 28 de noviembre de 2026 nos reunimos en el CSC de Cornes. Evento gratuito, con plazas limitadas. Meetup en borrador; inscripción aún no pública ni verificada: https://www.meetup.com/xantardev/events/317197411. Borrador sin publicar.",
+        "registration_url": "https://www.meetup.com/xantardev/events/317197411",
         "image": null
       }
     }
