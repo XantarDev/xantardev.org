@@ -34,7 +34,7 @@ Como siempre, nos juntaremos para lo que mejor sabemos hacer:
 🗳️ Y mucha reflexión (la que se pueda hacer con un café en la mano)
 
 
-## AGENDA (provisional)
+## AGENDA
 
 - **10:15.- Recepción y bienvenida**
 - **10:30.- De gestionar tareas a gestionar ideas con la ayuda de la IA — [Lorena Méndez Otero](https://www.linkedin.com/in/lorenamendezotero/)**
@@ -58,7 +58,7 @@ debatir de tabs vs. espacios sin que sea delito electoral.
 Si alguna vez has venido a un XantarDev —o si llevas tiempo queriendo venir— este es un evento perfecto para hacerlo. Y si dudas,
 recuerda: es jornada de reflexión, tienes todo el día para pensártelo. 😄
 
-¿Te apuntas? 🚀 [Meetup (borrador; inscripción aún no pública)](https://www.meetup.com/xantardev/events/317197411)
+¿Te apuntas? 🚀 [Meetup](https://www.meetup.com/xantardev/events/317197411)
 
 ## Cómo llegar
 
