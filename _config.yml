@@ -14,11 +14,16 @@ plugins:
   - jekyll-sitemap
 
 sponsor_sections:
-  - title: "Alojamiento"
+  # - title: "Alojamiento"
+  #   sponsors:
+  #     - name: "dinahosting"
+  #       url: "https://dinahosting.com"
+  #       logo: "/wp-content/uploads/2018/05/dinahostingLogo.png"
+  - title: "Últimos patrocinadores 2026"
     sponsors:
-      - name: "dinahosting"
-        url: "https://dinahosting.com"
-        logo: "/wp-content/uploads/2018/05/dinahostingLogo.png"
+      - name: "Tokiota"
+        url: "https://www.tokiota.com.com/"
+        logo: "/wp-content/uploads/2022/05/PNG-Transp_-TOKIOTA-1024x125.png"        
   - title: "Patrocinio 2025"
     sponsors:
       - name: "Mews"
