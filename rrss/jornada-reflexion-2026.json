@@ -13,15 +13,15 @@
     "registration_url": "https://www.meetup.com/xantardev/events/317197411"
   },
   "sponsor": "",
-  "cover_image": null,
+  "cover_image": "/wp-content/uploads/2026/11/2026_11_28_xantardev_reflexion_tech_cover.jpeg",
   "pending_resources": [
     "Meetup event still draft; registration not publicly available/verified.",
-    "Portada real generada o aportada y aprobada; solo existe el prompt.",
+    "Portada incorporada por decisión explícita: el título y la fecha impresos no coinciden exactamente con el evento.",
     "Tarjeta real de Unai Zorrilla Castro generada o aportada y aprobada; solo existe el prompt.",
     "Tarjeta real de Lorena Méndez Otero generada o aportada y aprobada; solo existe el prompt.",
     "Tarjeta real de Curro Raya generada o aportada y aprobada; solo existe el prompt.",
-    "Revisión de tipografía y legibilidad sobre las cuatro imágenes reales.",
-    "Autorización de publicación y fecha de publicación aún sin determinar."
+    "Revisión de tipografía y legibilidad sobre las tres tarjetas de charla pendientes.",
+    "Post local con published: true por decisión del usuario; push y publicación remota no autorizados, y Meetup sigue en borrador."
   ],
   "talks": [
     {

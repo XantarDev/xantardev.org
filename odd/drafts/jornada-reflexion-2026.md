@@ -22,17 +22,18 @@ redes y antes del sábado. 😉
 
 AGENDA (provisional):
 
-```
-  •    09:50.- Recepción y bienvenida
-  •    10:15.- Aspire + IA Boost the Developer Loop — Unai Zorrilla Castro
-       En esta charla veremos como podemos unir Aspire con herramientas de IA para mejorar nuestros Developer Loop de una forma sencilla.
-  •    11:30.- Café y networking ☕
-  •    12:15.- De gestionar tareas a gestionar ideas con la ayuda de la IA — Lorena Méndez Otero
-       En esta charla exploraremos cómo la inteligencia artificial está transformando la forma en la que gestionamos proyectos, conectando agentes de IA y servidores MCP con herramientas de nuestro día a día. A través de ejemplos prácticos, veremos cómo podemos interactuar en lenguaje natural con Azure DevOps para consultar el estado de nuestros proyectos, generar automáticamente diagramas con Draw.io, crear o actualizar presentaciones en PowerPoint e incluso analizar y actualizar informes en Power BI y Microsoft Fabric. Todo ello sin necesidad de navegar constantemente entre aplicaciones, aprovechando la IA como un asistente capaz de consultar información, conectar sistemas y ejecutar acciones. El objetivo es mostrar cómo podemos evolucionar de la gestión manual de tareas a una gestión más inteligente, conectada y orientada a las decisiones, donde la tecnología nos permita centrarnos en lo que realmente aporta valor.
-  •    13:00.- Como ser un líder y no un jefe en desarrollo de software. — Curro Raya
-       Ser un jefe es facil, ser un lider no, pero todos podemos ser lideres y hacer que un equipo de gente normal sea un equipo de champions.
-  •    13:45.- 🎉 Cierre, despedida. ¡Networking!
-```
+- **09:50.- Recepción y bienvenida**
+- **10:15.- Aspire + IA Boost the Developer Loop — [Unai Zorrilla Castro](https://x.com/_unaizc_)**
+
+  En esta charla veremos como podemos unir Aspire con herramientas de IA para mejorar nuestros Developer Loop de una forma sencilla.
+- **11:30.- Café y networking ☕**
+- **12:15.- De gestionar tareas a gestionar ideas con la ayuda de la IA — [Lorena Méndez Otero](https://www.linkedin.com/in/lorenamendezotero/)**
+
+  En esta charla exploraremos cómo la inteligencia artificial está transformando la forma en la que gestionamos proyectos, conectando agentes de IA y servidores MCP con herramientas de nuestro día a día. A través de ejemplos prácticos, veremos cómo podemos interactuar en lenguaje natural con Azure DevOps para consultar el estado de nuestros proyectos, generar automáticamente diagramas con Draw.io, crear o actualizar presentaciones en PowerPoint e incluso analizar y actualizar informes en Power BI y Microsoft Fabric. Todo ello sin necesidad de navegar constantemente entre aplicaciones, aprovechando la IA como un asistente capaz de consultar información, conectar sistemas y ejecutar acciones. El objetivo es mostrar cómo podemos evolucionar de la gestión manual de tareas a una gestión más inteligente, conectada y orientada a las decisiones, donde la tecnología nos permita centrarnos en lo que realmente aporta valor.
+- **13:00.- Como ser un líder y no un jefe en desarrollo de software. — [Curro Raya](https://linkedin.com/in/curroraya)**
+
+  Ser un jefe es facil, ser un lider no, pero todos podemos ser lideres y hacer que un equipo de gente normal sea un equipo de champions.
+- **13:45.- 🎉 Cierre, despedida. ¡Networking!**
 
 NETWORKING:
 

@@ -1,54 +1,52 @@
-# Jornada de Reflexión 2026 — draft visual prompts
+# Jornada de Reflexión 2026 — abstract visual prompts
 
-Status: pending resources; prompt-only. No images have been generated, saved or approved. Typography is unverified. The real Meetup URL and four approved images remain pending; this is not a finished post or publication authorization.
+Status: prompt-only draft for manual generation. These event-specific prompts follow the user's later abstract-art direction (S5), replacing the earlier literal scene from the reusable image-generator template for this event only. No images have been generated, saved or approved. The Meetup event remains in draft; do not imply that registration is open.
+
+Visual direction for all four assets: art-directed editorial graphics, like a carefully composed screen-printed cultural poster. Restrained palette, intentional negative space, subtle paper/ink texture, crisp geometry, precise hierarchy and controlled asymmetry. Avoid the glossy, hyper-detailed, neon, 3D-rendered look commonly associated with generative imagery. No people, portraits, hands, podcast sets, microphones, laptops, dinner tables, literal food, stock icons, fake logos or invented landmarks. Do not claim the work was made without AI.
 
 ## Cover prompt
 
-Confirmed substitutions: NOMBRE_EVENTO = “XantarDev: Jornada de Reflexión 🤔”; ELEMENTO_CULTURAL_O_LOCAL = “reflection on technology”; GASTRONOMIA_O_ELEMENTO = “xantar”; MONUMENTOS_O_PAISAJE = “the urban landscape near CSC de Cornes and the intermodal station”. This uses only the location supplied in the event copy; no particular landmark or building shape is asserted. No specific dish or additional landmark is inferred.
-
 ```text
-Detailed digital illustration in a vibrant modern comic and concept art style. The scene depicts a creative fusion of software development, tech podcasts, and reflection on technology, centered around a large thematic table with a printed circuit board (PCB) pattern surface. On the table: open laptops displaying code, professional studio microphones, and traditional plates of xantar. In the background, iconic silhouettes of the urban landscape near CSC de Cornes and the intermodal station under a bright, clear sky. Bold, eye-catching graphic typography integrated into the composition reading "XantarDev: Jornada de Reflexión 🤔". Warm, festive, and collaborative tech community atmosphere, rich colors, high detail, balanced composition.
+Design an original editorial poster for a local technology event, landscape 3:2. Make it abstract, not a scene: three offset geometric planes suggesting different perspectives meeting around a central open circle, with fine circuit-like lines fading into generous negative space. Let the circle suggest reflection and dialogue without depicting people or objects. Use a limited palette of deep indigo, warm ivory and one muted coral accent; crisp vector-like shapes, subtle imperfect screen-print ink texture, and a clear typographic grid. The result should feel like a considered cultural poster made by a graphic designer, not a glossy generative-illustration cliché. No photorealism, 3D effects, gradients, decorative pseudo-text, people, portraits, microphones, podcast equipment, laptops, tables, food, logos or specific buildings.
+Set this exact headline prominently, preserving every accent and character: "XantarDev: Jornada de Reflexión 🤔". Add no other text. Keep the lettering sharp, high-contrast, unclipped and readable at social-feed size; leave safe margins on all sides.
 ```
 
 ## Talk card 1 — Unai Zorrilla Castro
 
 ```text
-Create a polished XantarDev social card, landscape 3:2, high-resolution digital illustration with vibrant modern comic/concept-art styling and strong contrast.
-Illustration theme: connecting Aspire with AI tools to improve the developer loop, represented by code windows and a connected development cycle.
-Use a balanced composition with generous safe margins and a quiet area behind the lettering. Include exactly this text, preserving accents and spelling:
-Event: XantarDev: Jornada de Reflexión 🤔
-Talk: Aspire + IA Boost the Developer Loop
-Speaker: Unai Zorrilla Castro
-Event date: 28 de noviembre de 2026
-Keep all lettering clearly readable at social-feed size; prioritize the talk title and speaker. Do not add invented facts, extra dates, venue, sponsor logos or credentials. Use thematic illustration, not scraped or invented speaker portraits. Do not represent the speaker's likeness.
+Create an original abstract editorial social card, landscape 3:2, in the same visual family as a restrained screen-printed cultural poster: deep indigo, warm ivory and muted coral, subtle paper/ink texture, precise typography, controlled asymmetry and generous safe margins. Visual idea: a continuous line passing through three clean, offset modules and returning to its starting point, conveying an iterative developer loop and connected tools without literal software screenshots or icons. Keep a calm, high-contrast area for the text. No people, portraits, microphones, podcast equipment, laptops, 3D, neon, glossy effects, fake logos or invented details.
+Include only these exact text lines, with this hierarchy (title largest, speaker next, event and date smaller); preserve spelling, accents, punctuation and capitalization:
+"Aspire + IA Boost the Developer Loop"
+"Unai Zorrilla Castro"
+"XantarDev: Jornada de Reflexión 🤔"
+"28 de noviembre de 2026"
+Do not add labels, other text, venue or sponsor. Ensure every word remains legible at social-feed size and nothing is clipped.
 ```
 
 ## Talk card 2 — Lorena Méndez Otero
 
 ```text
-Create a polished XantarDev social card, landscape 3:2, high-resolution digital illustration with vibrant modern comic/concept-art styling and strong contrast.
-Illustration theme: AI agents and MCP servers connecting everyday project tools, with natural-language interaction, diagrams and reports supporting decisions rather than manual task management.
-Use a balanced composition with generous safe margins and a quiet area behind the lettering. Include exactly this text, preserving accents and spelling:
-Event: XantarDev: Jornada de Reflexión 🤔
-Talk: De gestionar tareas a gestionar ideas con la ayuda de la IA
-Speaker: Lorena Méndez Otero
-Event date: 28 de noviembre de 2026
-Keep all lettering clearly readable at social-feed size; prioritize the talk title and speaker. Do not add invented facts, extra dates, venue, sponsor logos or credentials. Use thematic illustration, not scraped or invented speaker portraits. Do not represent the speaker's likeness.
+Create an original abstract editorial social card, landscape 3:2, in the same visual family as a restrained screen-printed cultural poster: deep indigo, warm ivory and muted coral, subtle paper/ink texture, precise typography, controlled asymmetry and generous safe margins. Visual idea: scattered small marks converging into a clear constellation of connected forms, suggesting ideas becoming a coherent plan through AI-assisted work. Use simple geometric relationships, not robots, brains, chat bubbles, diagrams with tiny labels or literal app interfaces. Keep a calm, high-contrast area for the text. No people, portraits, microphones, podcast equipment, laptops, 3D, neon, glossy effects, fake logos or invented details.
+Include only these exact text lines, with this hierarchy (title largest, speaker next, event and date smaller); preserve spelling, accents, punctuation and capitalization:
+"De gestionar tareas a gestionar ideas con la ayuda de la IA"
+"Lorena Méndez Otero"
+"XantarDev: Jornada de Reflexión 🤔"
+"28 de noviembre de 2026"
+Do not add labels, other text, venue or sponsor. Ensure every word remains legible at social-feed size and nothing is clipped.
 ```
 
 ## Talk card 3 — Curro Raya
 
 ```text
-Create a polished XantarDev social card, landscape 3:2, high-resolution digital illustration with vibrant modern comic/concept-art styling and strong contrast.
-Illustration theme: leadership rather than being a boss in software development, with a collaborative team working together toward a shared goal.
-Use a balanced composition with generous safe margins and a quiet area behind the lettering. Include exactly this text, preserving accents and spelling:
-Event: XantarDev: Jornada de Reflexión 🤔
-Talk: Como ser un líder y no un jefe en desarrollo de software.
-Speaker: Curro Raya
-Event date: 28 de noviembre de 2026
-Keep all lettering clearly readable at social-feed size; prioritize the talk title and speaker. Do not add invented facts, extra dates, venue, sponsor logos or credentials. Use thematic illustration, not scraped or invented speaker portraits. Do not represent the speaker's likeness.
+Create an original abstract editorial social card, landscape 3:2, in the same visual family as a restrained screen-printed cultural poster: deep indigo, warm ivory and muted coral, subtle paper/ink texture, precise typography, controlled asymmetry and generous safe margins. Visual idea: several independent lines finding a shared direction without one line dominating the others, suggesting collaborative leadership rather than hierarchy. Use a subtle, balanced rhythm of geometric paths, not figures, teams, chess pieces, crowns, arrows with labels or corporate stock symbolism. Keep a calm, high-contrast area for the text. No people, portraits, microphones, podcast equipment, laptops, 3D, neon, glossy effects, fake logos or invented details.
+Include only these exact text lines, with this hierarchy (title largest, speaker next, event and date smaller); preserve spelling, accents, punctuation and capitalization:
+"Como ser un líder y no un jefe en desarrollo de software."
+"Curro Raya"
+"XantarDev: Jornada de Reflexión 🤔"
+"28 de noviembre de 2026"
+Do not add labels, other text, venue or sponsor. Ensure every word remains legible at social-feed size and nothing is clipped.
 ```
 
-## Pending approval gates
+## Review before use
 
-Generate or obtain one real cover and three real cards before assigning any image paths. Inspect each actual output at full size and social-feed size for exact title, speaker, accents, date, legibility, clipping and contrast. Request corrected artwork on failure. Only approved actual files may be referenced in a future post or social payload. Obtain and validate the real event-specific Meetup URL separately. No publication date has been selected.
+Generate each asset separately. Inspect each downloaded image at full size and social-feed size: exact title, speaker, accents, date, contrast, margins and absence of extra text. If a generator cannot render precise typography, request a text-free version of the same layout and typeset the four exact lines manually in a design tool; do not use a card with incorrect text. Only approved, real image files may replace the null paths in the event drafts. No publication or push is authorized.
