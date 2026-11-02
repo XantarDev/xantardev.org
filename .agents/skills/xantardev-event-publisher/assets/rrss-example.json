@@ -1,0 +1,32 @@
+{
+  "post_basename": "PUBLICATION-DATE-event-slug",
+  "language": "es",
+  "event": {
+    "title": "TÍTULO CONFIRMADO",
+    "date": "FECHA DEL EVENTO ISO-8601",
+    "start_time": "HH:mm",
+    "end_time": "HH:mm",
+    "timezone": "Europe/Madrid",
+    "registration_url": "https://www.meetup.com/GROUP/events/EVENT_ID/"
+  },
+  "sponsor": "",
+  "cover_image": "/wp-content/uploads/YYYY/MM/approved-cover.png",
+  "talks": [
+    {
+      "title": "TÍTULO DE CHARLA CONFIRMADO",
+      "description": "DESCRIPCIÓN CONFIRMADA",
+      "speaker": "PONENTE CONFIRMADO",
+      "image": "/wp-content/uploads/YYYY/MM/approved-talk-card.png",
+      "x": {
+        "text": "CHARLA — PONENTE. FECHA. Inscríbete: https://www.meetup.com/GROUP/events/EVENT_ID/",
+        "registration_url": "https://www.meetup.com/GROUP/events/EVENT_ID/",
+        "image": "/wp-content/uploads/YYYY/MM/approved-talk-card.png"
+      },
+      "linkedin": {
+        "text": "CHARLA, con PONENTE. DESCRIPCIÓN CONFIRMADA. FECHA y HORARIO. Inscripción: https://www.meetup.com/GROUP/events/EVENT_ID/",
+        "registration_url": "https://www.meetup.com/GROUP/events/EVENT_ID/",
+        "image": "/wp-content/uploads/YYYY/MM/approved-talk-card.png"
+      }
+    }
+  ]
+}
