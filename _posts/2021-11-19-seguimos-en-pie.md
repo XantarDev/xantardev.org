@@ -30,16 +30,16 @@ Mantente al tanto de las novedades a través de <a href="https://twitter.com/xan
 <h3 style="padding-top: 15px;">Agenda</h3>
 <h6 style="padding-top: 15px;"><strong>10:00.- Recepción, registro y presentación</strong></h6>
 Bienvenida, presentación del evento y transcurso de la jornada.
-<h6 style="padding-top: 15px;"><strong>10:30.- La senda del freelance - Brais Moure </strong><a href="https://twitter.com/mouredev" target="_blank" rel="noopener"><img class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt="" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>10:30.- La senda del freelance - Brais Moure </strong><a href="https://twitter.com/mouredev" target="_blank" rel="noopener"><img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt="" width="20" height="20" border="0"></a></h6>
 "Hace 6 años dejé mi empleo como desarrollador en la empresa privada para emprender por mi cuenta como desarrollador mobile. Este es el camino que ha traído hasta el día de hoy, con errores, aprendizajes y oportunidades que nunca antes me había planteado."
 
 Brais es ingeniero de software profesional desde hace más de 11 años. Hace 6 creó MoureDev para dedicarse como freelance al desarrollo de aplicaciones iOS y Android. Actualmente compagina sus propios proyectos y colaboraciones con empresas con la creación de contenido formativo en redes.
 <h6 style="padding-top: 15px;"><strong>11:15.- Descanso</strong></h6>
-<h6 style="padding-top: 15px;"><strong>12:00.- Ya no me gustan las distopías - Sofía Prósper</strong>&nbsp;<a href="https://twitter.com/sofipros" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt="" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>12:00.- Ya no me gustan las distopías - Sofía Prósper</strong>&nbsp;<a href="https://twitter.com/sofipros" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt="" width="20" height="20" border="0"></a></h6>
 ¿Cansada del Juego del calamar y todas esas historias horribles que vaticinan lo peor y no te dejan pensar en un futuro mejor? En esta charla hablaremos de innovación, inteligencia artificial, singularidad y de cómo pensar juntas utopías que mejoren nuestro presente.
 
 Arquitecta y co-fundadora de IUVIA y de Trackula, asociación que lucha por los derechos digitales, la soberanía tecnológica y la privacidad en la red.
-<h6 style="padding-top: 15px;"><strong>12:45.- Kuartillo en su salsa - José Sendín</strong><a href="https://twitter.com/kuartillo" target="_blank" rel="noopener noreferrer">&nbsp;</a><a href="https://twitter.com/kuartillo" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt="" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>12:45.- Kuartillo en su salsa - José Sendín</strong><a href="https://twitter.com/kuartillo" target="_blank" rel="noopener noreferrer">&nbsp;</a><a href="https://twitter.com/kuartillo" target="_blank" rel="noopener noreferrer"><img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt="" width="20" height="20" border="0"></a></h6>
 Temática de la charla pendiente de determinar. Puede ser que nos hable sobre asesoramiento legal a empresas tecnológicas, contratos de desarrollo de software, licencias de software, auditoria de páginas web, acuerdos de confidencialidad… o de cualquier otra cosa.
 
 Kuartillo es abogado especializado en la protección jurídica del software.

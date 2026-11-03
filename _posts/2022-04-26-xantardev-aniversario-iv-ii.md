@@ -58,7 +58,7 @@ excerpt: ""
 
 
 
-<h5>10:30.- ¿Somos Agile?- por <strong>Verónica Pérez Duro</strong>  <a rel="noopener" href="https://twitter.com/veropduro" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt=""></a></h5>
+<h5>10:30.- ¿Somos Agile?- por <strong>Verónica Pérez Duro</strong>  <a rel="noopener" href="https://twitter.com/veropduro" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt=""></a></h5>
 
 
 
@@ -86,7 +86,7 @@ excerpt: ""
 
 
 
-<h5>12:30.- Mapas, React, Leaflet, GraphQL, MongoDB Atlas y cómo montar todo por cero euritos - por <strong>Sergio Zamarro</strong> <a rel="noopener" href="https://twitter.com/zamarrowski" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt=""></a></h5>
+<h5>12:30.- Mapas, React, Leaflet, GraphQL, MongoDB Atlas y cómo montar todo por cero euritos - por <strong>Sergio Zamarro</strong> <a rel="noopener" href="https://twitter.com/zamarrowski" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt=""></a></h5>
 
 
 
@@ -106,7 +106,7 @@ excerpt: ""
 
 
 
-<h5>13:30.- Diseño y desarrollo, una historia de ~~des~~amor - por <strong>Andrea Magán Rey</strong>  <a rel="noopener" href="https://twitter.com/andreamaganrey" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt=""></a></h5>
+<h5>13:30.- Diseño y desarrollo, una historia de ~~des~~amor - por <strong>Andrea Magán Rey</strong>  <a rel="noopener" href="https://twitter.com/andreamaganrey" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt=""></a></h5>
 
 
 
@@ -126,7 +126,7 @@ excerpt: ""
 
 
 
-<h5>16:30.- Buenas prácticas en los procesos de selección - por <strong>Laura Becerra</strong>  <a rel="noopener" href="https://twitter.com/laaaura_becerra" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://twitterdev.github.io/images/bird.png" alt=""></a></h5>
+<h5>16:30.- Buenas prácticas en los procesos de selección - por <strong>Laura Becerra</strong>  <a rel="noopener" href="https://twitter.com/laaaura_becerra" target="_blank"><img width="20" height="20" border="0" class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" alt=""></a></h5>
 
 
 

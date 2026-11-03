@@ -25,27 +25,27 @@ Bienvenida, presentación del evento y transcurso de la jornada.
 Estefanía nos explicará la realidad de montar una plataforma Big Data actual utilizando los servicios que ofrece Google Cloud Platform. Una plataforma cuya arquitectura sea completa, de alto rendimiento, escalable y sin morir en el intento.
 
 Estefanía es Doctora en Ciencias de la Computación e Inteligencia Artificial por la Universidad de Santiago desde 2017. Tiene un Máster en Investigación y Tecnologías de la Información (2011) y se graduó como Ingeniera Informática (2010) en la misma Universidad. En su momento, fue investigadora en el CITIUS, pero a día de hoy trabaja como Data Scientist en el departamento de TI en FINSA. También tiene una gata...
-<h6 style="padding-top: 15px;"><strong>10:30.- gRPC for dummies - por Bernal Varela</strong><a href="https://twitter.com/bernalvarela" target="_blank" rel="noopener noreferrer"> <img src="https://twitterdev.github.io/images/bird.png" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>10:30.- gRPC for dummies - por Bernal Varela</strong><a href="https://twitter.com/bernalvarela" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" width="20" height="20" border="0"></a></h6>
 Bernal non hará una introducción al framework gRPC. Definición de protos, generación de código de ejemplo, diferentes casos de uso y comparativa con otras opciones como REST.
 
 Bernal es ingeniero informático, trabajando en desarrollo desde 2007. Actualmente aporta su granito de arena para hacer cosillas interesantes en Corunet, para Zara.com. Su día a día está relacionado con Spring Boot, Hibernate y otras herramientas que hacen que sea imposible aburrirse.
 <h6 style="padding-top: 15px;"><strong>11:30.- Café.</strong></h6>
-<h6 style="padding-top: 15px;"><strong>12:30.- He leído y acepto los términos de esta licencia - por Jose Sendín</strong><a href="https://twitter.com/kuartillo" target="_blank" rel="noopener noreferrer"> <img src="https://twitterdev.github.io/images/bird.png" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>12:30.- He leído y acepto los términos de esta licencia - por Jose Sendín</strong><a href="https://twitter.com/kuartillo" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" width="20" height="20" border="0"></a></h6>
 De la mano de Jose, veremos la traducción a humano de las licencias de software y qué debemos tener en cuenta a la hora de elegir una.
 
 Jose es cofundador y responsable del área legal de Nolegaltech.
-<h6 style="padding-top: 15px;"><strong>13:30.- TDD y buenas prácticas en testing - por Cristina S. Barreiro <a href="https://twitter.com/CrisBarreiro_" target="_blank" rel="noopener noreferrer"><img src="https://twitterdev.github.io/images/bird.png" width="20" height="20" border="0"></a> y Esther Álvarez</strong></h6>
+<h6 style="padding-top: 15px;"><strong>13:30.- TDD y buenas prácticas en testing - por Cristina S. Barreiro <a href="https://twitter.com/CrisBarreiro_" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" width="20" height="20" border="0"></a> y Esther Álvarez</strong></h6>
 Cris y Esther contextualizarán la necesidad de hacer testing dentro de un proyecto de desarrollo de software, para luego hacer una breve introducción a TDD y terminar dando unas nociones de cómo escribir buenos tests unitarios.
 
 Cris tiene 3 años de experiencia en desarrollo de aplicaciones móviles nativas (Android e iOS). Es Co-Organizadora de GDG Santiago y miembro de Women Techmakers.
 
 Esther tiene 5 años de experiencia en desarrollo web fullstack en entornos CI/CD. Principalmente, desarrolla backend en arquitecturas basadas en servicios. De forma secundaria, desarrolla frontend web con Javascript. Actualmente, lleva 2 años en Situm, como parte del equipo de Desarrollo Web.
 <h6 style="padding-top: 15px;"><strong>14:30.- ¡Xantar de networking!</strong></h6>
-<h6 style="padding-top: 15px;"><strong>16:30.- Alexino, o qué pasa si juntas a Alexa con Arduino - por Daniel Rey </strong><a href="https://twitter.com/kdarrey" target="_blank" rel="noopener noreferrer"><img src="https://twitterdev.github.io/images/bird.png" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>16:30.- Alexino, o qué pasa si juntas a Alexa con Arduino - por Daniel Rey </strong><a href="https://twitter.com/kdarrey" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" width="20" height="20" border="0"></a></h6>
 En este charla veremos una demostración de cómo podemos comunicar Alexa con Arduino y que podemos lograr con esta extraña combinación.
 
 Daniel es AP en Bahía Software. Principalmente se dedica a desarrollo web. En su tiempo libre a veces se dedica a quemar placas de Arduino y a cacharrear con cosas que ( a veces) funcionan.
-<h6 style="padding-top: 15px;"><strong>17:30.- ¿Cómo he llegado hasta aquí? - por Fernando Blanco</strong> <a href="https://twitter.com/FerBlancoDosil" target="_blank" rel="noopener noreferrer"><img src="https://twitterdev.github.io/images/bird.png" width="20" height="20" border="0"></a></h6>
+<h6 style="padding-top: 15px;"><strong>17:30.- ¿Cómo he llegado hasta aquí? - por Fernando Blanco</strong> <a href="https://twitter.com/FerBlancoDosil" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a2/20120617162509%21Twitter_bird.png" width="20" height="20" border="0"></a></h6>
 El mundo del dato está cambiando pero, ¿cómo afecta el Big Data a las arquitecturas BI existentes? ¿Está el software de BI preparado para este cambio? ¿Podemos crear visualizaciones a partir de diferentes orígenes de datos? Y, lo más importante, ¿encaja un desarrollador web en todo este cambio?
 
 Fernando es "fillo de taberneiro, argalleiro e aprendiz de informático".
