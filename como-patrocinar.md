@@ -7,58 +7,90 @@ source_id: "7"
 author: "xantardev"
 categories: []
 tags: []
-excerpt: ""
+excerpt: "Conecta con el talento tecnológico local y da visibilidad a tu marca. Acuerda el patrocinio con XantarDev y apoya a la comunidad."
 ---
 
-En **XantarDev** creemos firmemente en el valor de compartir conocimiento, aprender entre profesionales del sector tecnológico y, por supuesto, disfrutar de un buen *xantar* de networking en la Comarca de Santiago. 
+<div class="sponsorship" lang="es">
+  <section class="sponsorship-intro" aria-labelledby="sponsor-intro">
+    <p class="sponsorship-eyebrow">Talento local · Conocimiento compartido · Buen xantar</p>
+    <h2 id="sponsor-intro">Tu marca, cerca de la comunidad tecnológica.</h2>
+    <p>Ayúdanos a hacer posible el próximo XantarDev: una mañana de sábado para compartir conocimiento y un <em>xantar</em> para conectar en la Comarca de Santiago.</p>
+    <p><strong>Acordamos qué cubrir, coordinamos los gastos y pagas directamente al proveedor.</strong> Puedes patrocinar un evento en exclusiva o compartirlo con otras empresas.</p>
+    <a class="sponsorship-cta" href="mailto:xantardev@outlook.com?subject=Quiero%20patrocinar%20XantarDev">Quiero patrocinar XantarDev <span aria-hidden="true">↗</span></a>
+    <a class="sponsorship-jump" href="#pasos-patrocinio">Ver los 3 pasos <span aria-hidden="true">↓</span></a>
+  </section>
 
-Para mantener viva esta comunidad heterogénea (desarrolladores, sistemas, gestión de proyectos y más) y seguir organizando eventos de calidad los sábados por la mañana, buscamos empresas e instituciones alineadas con el talento y la innovación que quieran acompañarnos como patrocinadoras.
+  <section class="sponsorship-section" aria-labelledby="ventajas-patrocinio">
+    <p class="sponsorship-eyebrow">Qué aporta a tu empresa</p>
+    <h2 id="ventajas-patrocinio">Visibilidad y conversaciones que importan</h2>
+    <ul class="sponsorship-benefits">
+      <li><h3>Conecta con talento</h3><p>Conoce de cerca a profesionales de desarrollo, sistemas y gestión de proyectos para futuras incorporaciones a tu equipo.</p></li>
+      <li><h3>Haz visible tu marca</h3><p>Presencia en la web, el mailing y las redes sociales del evento, con mención y agradecimiento al abrir la jornada.</p></li>
+      <li><h3>Comparte lo que haces</h3><p>Da a conocer tus productos y servicios a un público técnico e interactúa con los asistentes durante el evento y el <em>xantar</em>.</p></li>
+      <li><h3>Impulsa la comunidad local</h3><p>Vincula tu empresa al conocimiento y la innovación, apoyando el tejido tecnológico de la provincia de A Coruña.</p></li>
+    </ul>
+  </section>
 
----
+  <section class="sponsorship-section" aria-labelledby="pasos-patrocinio">
+    <p class="sponsorship-eyebrow">Así de sencillo</p>
+    <h2 id="pasos-patrocinio">De tu primer mensaje al próximo evento</h2>
+    <ol class="sponsorship-steps">
+      <li><span class="sponsorship-step-number" aria-hidden="true">01</span><h3>Escríbenos</h3><p>Cuéntanos qué empresa sois y vuestro interés en apoyar un evento.</p></li>
+      <li><span class="sponsorship-step-number" aria-hidden="true">02</span><h3>Acordamos la aportación</h3><p>Elegimos juntos qué gastos cubrir y el importe. XantarDev coordina con los proveedores.</p></li>
+      <li><span class="sponsorship-step-number" aria-hidden="true">03</span><h3>Pagas al proveedor</h3><p>Recibes la factura a nombre de tu empresa y realizas el pago antes del evento para confirmar el patrocinio.</p></li>
+    </ol>
+    <p class="sponsorship-note"><strong>Y llega el día:</strong> tu marca acompaña al evento y tú puedes conectar con la comunidad.</p>
+  </section>
 
-## ¿Por qué patrocinar XantarDev?
+  <section class="sponsorship-section" aria-labelledby="pago-patrocinio">
+    <p class="sponsorship-eyebrow">Transparente y directo</p>
+    <h2 id="pago-patrocinio">¿Quién coordina, quién factura y quién paga?</h2>
+    <p>XantarDev coordina los gastos con proveedores locales de confianza. <strong>No recaudamos dinero ni emitimos facturas a nuestro nombre.</strong> Toda la aportación cubre costes reales del evento.</p>
+    <figure class="sponsorship-flow" aria-labelledby="flujo-patrocinio">
+      <figcaption id="flujo-patrocinio">XantarDev coordina el acuerdo entre tu empresa y los proveedores</figcaption>
+      <div class="sponsorship-flow-row">
+        <div class="sponsorship-flow-node">Proveedor</div>
+        <div class="sponsorship-flow-arrow"><span>Factura a nombre de tu empresa</span><span aria-hidden="true">⟶</span></div>
+        <div class="sponsorship-flow-node">Tu empresa</div>
+      </div>
+      <div class="sponsorship-flow-row">
+        <div class="sponsorship-flow-node">Tu empresa</div>
+        <div class="sponsorship-flow-arrow"><span>Pago antes del evento</span><span aria-hidden="true">⟶</span></div>
+        <div class="sponsorship-flow-node">Proveedor</div>
+      </div>
+      <p>El proveedor emite la proforma o factura definitiva con los datos fiscales de tu empresa por el importe acordado.</p>
+    </figure>
+  </section>
 
-Patrocinar nuestra comunidad técnica te conecta de forma directa con el ecosistema tecnológico local. Es una oportunidad ideal para:
+  <section class="sponsorship-section" aria-labelledby="ejemplos-patrocinio">
+    <p class="sponsorship-eyebrow">Dos formas de sumarte</p>
+    <h2 id="ejemplos-patrocinio">En exclusiva o entre varias empresas</h2>
+    <p>Estos importes son ejemplos ilustrativos. Acordamos contigo la aportación y los gastos concretos de cada evento.</p>
+    <div class="sponsorship-examples">
+      <section class="sponsorship-example" aria-labelledby="ejemplo-exclusivo">
+        <h3 id="ejemplo-exclusivo">Una empresa · Un evento</h3>
+        <p class="sponsorship-amount">170 € <small>+ IVA</small></p>
+        <p>Un ejemplo para cubrir café y networking para unos 35 asistentes.</p>
+        <p class="sponsorship-allocation"><strong>Tu empresa</strong><span aria-hidden="true">↓</span><span>170 € + IVA al proveedor de café</span></p>
+        <p>El proveedor emite una factura a tu empresa por el importe total.</p>
+      </section>
+      <section class="sponsorship-example" aria-labelledby="ejemplo-compartido">
+        <h3 id="ejemplo-compartido">Varias empresas · Un evento</h3>
+        <p class="sponsorship-amount">100 € + 150 € <small>+ IVA</small></p>
+        <p>Dos aportaciones que cubren el catering y material para sortear.</p>
+        <ul class="sponsorship-allocation-list">
+          <li><strong>Empresa A: 100 € + IVA</strong><span aria-hidden="true">↓</span><span>Catering: 100 € + IVA</span></li>
+          <li><strong>Empresa B: 150 € + IVA</strong><span aria-hidden="true">↓</span><span>Catering: 50 € + IVA<br>Material: 100 € + IVA</span></li>
+        </ul>
+        <p>Cada proveedor factura a la empresa que cubre su gasto. XantarDev coordina el reparto.</p>
+      </section>
+    </div>
+  </section>
 
-* **Captación de talento:** Contactar de forma directa y cercana con perfiles técnicos experimentados y profesionales avanzados para posibles incorporaciones a tu equipo.
-* **Posicionamiento de marca (*Employer Branding*):** Consolidar a tu empresa como un referente tecnológico y un actor activo en el impulso del conocimiento de la región.
-* **Visibilidad de productos y servicios:** Dar a conocer tus soluciones de alto nivel tecnológico ante un público especializado.
-* **Promoción e impacto local:** Colaborar en la dinamización del tejido empresarial y en la promoción de la provincia de A Coruña.
-
-### Tu visibilidad en nuestros eventos
-Como patrocinador, tu marca estará presente en la difusión oficial del evento (web, mailing y redes sociales), tendrás mención y agradecimiento explícito durante la presentación de la jornada y dispondrás de espacio para interactuar con los asistentes durante el evento y el *xantar*.
-
----
-
-## ¿Cómo funciona el patrocinio? 100% Transparente y Sin Intermediarios
-
-En XantarDev hemos optado por un modelo de patrocinio **sencillo, transparente y directo**:
-
-1. **Sin gestión de dinero por nuestra parte:** La organización de XantarDev **no recauda dinero ni emite facturas a su nombre**. Todo el importe aportado se destina íntegramente a cubrir los costes reales del evento.
-2. **Facturación directa con el proveedor:** Nosotros coordinamos los gastos con proveedores locales de confianza. El proveedor emite la factura proforma/definitiva directamente a los datos fiscales de tu empresa por el importe del patrocinio acordado.
-3. **Pago previo al evento:** El único requisito indispensable para confirmar el patrocinio es que el pago al proveedor quede garantizado y realizado antes de la celebración del evento.
-
----
-
-## Ejemplos prácticos de patrocinio
-
-El patrocinio de un evento se puede asumir de forma exclusiva o compartida entre varias empresas:
-
-### Ejemplo 1: Patrocinio exclusivo de un evento
-* Se acuerda un patrocinio total de **170 € + IVA** destinado a cubrir el servicio de café y networking para unos 35 asistentes.
-* El proveedor (*ej. Cafetería Pepe*) emite la factura de 170 € + IVA con los datos fiscales de la empresa patrocinadora.
-
-### Ejemplo 2: Patrocinio compartido entre varias empresas
-* La **Empresa A** aporta **100 € + IVA**.
-* La **Empresa B** aporta **150 € + IVA**.
-* La organización coordina la emisión de facturas según lo aportado:
-  * **Empresa A** recibe una factura del proveedor de catering (*Cafetería Pepe*) por importe de 100 € + IVA.
-  * **Empresa B** recibe una factura del catering por 50 € + IVA y la factura de compra del material a sortear en el evento (teclado mecánico, altavoz inteligente, etc.) por importe de 95 € + IVA.
-
----
-
-## ¿Hablamos?
-
-Si queréis posicionaros como referente, conectar con el mejor talento técnico y apoyar a la comunidad local, nos encantará contar con vosotros en nuestro próximo evento.
-
-📩 Escríbenos a **<a href="mailto:xantardev@outlook.com">xantardev@outlook.com</a>** o contáctanos a través de nuestras redes sociales para elegir la modalidad de patrocinio que mejor se adapte a vuestra empresa.
+  <section class="sponsorship-contact" aria-labelledby="contacto-patrocinio">
+    <h2 id="contacto-patrocinio">El primer paso es un mensaje</h2>
+    <p>Cuéntanos qué empresa sois y buscamos juntos cómo participar en el próximo XantarDev.</p>
+    <a class="sponsorship-cta" href="mailto:xantardev@outlook.com?subject=Quiero%20patrocinar%20XantarDev">Escríbenos para patrocinar <span aria-hidden="true">↗</span></a>
+    <p><a href="mailto:xantardev@outlook.com">xantardev@outlook.com</a></p>
+  </section>
+</div>
