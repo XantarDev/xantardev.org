@@ -106,3 +106,57 @@ body{margin:0;background:var(--bg);color:var(--text);font-family:Roboto,Arial,sa
   .pagination{align-items:flex-start;flex-direction:column}
   .pagination span{order:-1}
 }
+
+/* Sponsorship page: semantic diagrams that also work without JavaScript. */
+.sponsorship{--sponsor-accent:#007da9}
+:root[data-theme="dark"] .sponsorship{--sponsor-accent:#7bdcff}
+.sponsorship h2,.sponsorship h3{color:var(--heading);line-height:1.3}
+.sponsorship h2{margin:0 0 1rem;font-size:1.6rem}
+.sponsorship h3{margin:0 0 .6rem;font-size:1.05rem}
+.sponsorship p{margin:0 0 1rem}
+.sponsorship p:last-child{margin-bottom:0}
+.sponsorship .sponsorship-eyebrow{margin:0 0 .65rem;color:var(--sponsor-accent);font-size:.76rem;font-weight:700;letter-spacing:.07em;text-transform:uppercase}
+.sponsorship-intro{padding:1.8rem;background:var(--accent-soft);border:1px solid var(--border);border-radius:.7rem}
+.sponsorship-intro h2{font-size:2rem;max-width:22ch}
+.sponsorship .sponsorship-cta{display:inline-flex;align-items:center;justify-content:center;gap:.8rem;max-width:100%;padding:.75rem 1.1rem;background:#007da9;color:#fff;border:2px solid transparent;border-radius:.35rem;font-weight:700;text-align:center;text-decoration:none;line-height:1.5}
+.sponsorship .sponsorship-cta:hover{background:#006487}
+.sponsorship a:focus-visible{outline:3px solid var(--heading);outline-offset:4px}
+.sponsorship-jump{display:inline-block;margin:.85rem 0 0 1rem;font-weight:700;text-underline-offset:.2em}
+.sponsorship-section{margin-top:2.75rem}
+.sponsorship-benefits{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin:1.25rem 0 0;padding:0;list-style:none}
+.sponsorship-benefits li{padding:1.25rem;border-left:3px solid var(--sponsor-accent);background:var(--surface);border-radius:0 .4rem .4rem 0}
+.sponsorship-benefits p,.sponsorship-steps p,.sponsorship-example p{font-size:.94rem}
+.sponsorship-steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.5rem;margin:1.5rem 0 0;padding:0;list-style:none}
+.sponsorship-steps li{position:relative;padding:1.15rem;background:var(--surface);border:1px solid var(--border);border-radius:.5rem}
+.sponsorship-steps li:not(:last-child)::after{content:'→';position:absolute;right:-1.5rem;top:1.3rem;width:1.5rem;color:var(--sponsor-accent);font-size:1.35rem;text-align:center}
+.sponsorship-step-number{display:inline-flex;align-items:center;justify-content:center;width:2.5rem;height:2.5rem;margin-bottom:1rem;background:var(--accent-soft);color:var(--sponsor-accent);border-radius:50%;font-weight:700}
+.sponsorship .sponsorship-note{margin-top:1rem;padding:1rem 1.25rem;border-radius:.4rem;background:var(--accent-soft)}
+.sponsorship-flow{margin:1.25rem 0 0;padding:1.5rem;border:1px solid var(--border);border-radius:.6rem;background:var(--surface)}
+.sponsorship-flow figcaption{margin-bottom:1.5rem;color:var(--heading);font-weight:700;text-align:center}
+.sponsorship-flow-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.6fr) minmax(0,1fr);align-items:center;gap:1rem;margin-bottom:1.25rem}
+.sponsorship-flow-node{padding:.8rem .5rem;border:1px solid var(--border);border-radius:.4rem;background:var(--accent-soft);color:var(--heading);font-weight:700;text-align:center}
+.sponsorship-flow-arrow{display:flex;flex-direction:column;align-items:center;color:var(--sponsor-accent);font-size:.85rem;font-weight:700;text-align:center}
+.sponsorship-flow-arrow span:last-child{font-size:2.2rem;line-height:1}
+.sponsorship-flow>p{padding-top:1rem;border-top:1px solid var(--border);font-size:.9rem}
+.sponsorship-examples{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin-top:1.25rem}
+.sponsorship-example{padding:1.25rem;border:1px solid var(--border);border-radius:.5rem;background:var(--surface)}
+.sponsorship .sponsorship-amount{color:var(--sponsor-accent);font-size:1.65rem;font-weight:700;line-height:1.3}
+.sponsorship-amount small{display:inline-block;font-size:.85rem;font-weight:400}
+.sponsorship-allocation,.sponsorship-allocation-list li{display:flex;flex-direction:column;align-items:center;padding:1rem;background:var(--surface-soft);border-radius:.35rem;text-align:center;font-size:.9rem}
+.sponsorship-allocation [aria-hidden],.sponsorship-allocation-list [aria-hidden]{color:var(--sponsor-accent);font-size:1.5rem;line-height:1.6}
+.sponsorship-allocation-list{display:grid;gap:.75rem;margin:0 0 1rem;padding:0;list-style:none}
+.sponsorship-contact{margin-top:2.75rem;padding:1.8rem;border:1px solid var(--border);border-radius:.7rem;background:var(--accent-soft)}
+.sponsorship-contact>p:last-child{margin-top:1rem;overflow-wrap:anywhere}
+@media (max-width:1050px) and (min-width:801px), (max-width:620px){
+  .sponsorship-intro,.sponsorship-contact{padding:1.25rem}
+  .sponsorship-intro h2{font-size:1.65rem}
+  .sponsorship h2{font-size:1.4rem}
+  .sponsorship-benefits,.sponsorship-examples,.sponsorship-steps{grid-template-columns:1fr}
+  .sponsorship-steps{gap:1.5rem}
+  .sponsorship-steps li:not(:last-child)::after{content:'↓';top:auto;right:calc(50% - .75rem);bottom:-1.5rem;line-height:1.5rem}
+  .sponsorship-jump{display:block;margin:1rem 0 0}
+  .sponsorship-flow{padding:1.25rem}
+  .sponsorship-flow-row{grid-template-columns:1fr;gap:.5rem}
+  .sponsorship-flow-arrow span:last-child{transform:rotate(90deg);margin:.25rem 0}
+  .sponsorship-flow-row+.sponsorship-flow-row{padding-top:1.25rem;border-top:1px dashed var(--border)}
+}
